@@ -1,0 +1,10 @@
+e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.pdb
+E:\Documents\Visual Studio 2013\Projects\2.PrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10. Employee Data.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10.EmployeeData.pdb
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\10.EmployeeData\obj\Debug\10. Employee Data.csprojResolveAssemblyReference.cache
