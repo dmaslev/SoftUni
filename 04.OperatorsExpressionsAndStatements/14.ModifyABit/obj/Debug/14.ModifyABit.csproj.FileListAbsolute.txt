@@ -1,0 +1,11 @@
+E:\Documents\Visual Studio 2013\Projects\3.OperatorsExpressionsAndStatements\14.ModifyABit\bin\Debug\14.ModifyABit.exe.config
+E:\Documents\Visual Studio 2013\Projects\3.OperatorsExpressionsAndStatements\14.ModifyABit\bin\Debug\14.ModifyABit.exe
+E:\Documents\Visual Studio 2013\Projects\3.OperatorsExpressionsAndStatements\14.ModifyABit\bin\Debug\14.ModifyABit.pdb
+E:\Documents\Visual Studio 2013\Projects\3.OperatorsExpressionsAndStatements\14.ModifyABit\obj\Debug\14.ModifyABit.exe
+E:\Documents\Visual Studio 2013\Projects\3.OperatorsExpressionsAndStatements\14.ModifyABit\obj\Debug\14.ModifyABit.pdb
+E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\14.ModifyABit\bin\Debug\14.ModifyABit.exe.config
+E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\14.ModifyABit\obj\Debug\14.ModifyABit.exe
+E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\14.ModifyABit\obj\Debug\14.ModifyABit.pdb
+E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\14.ModifyABit\bin\Debug\14.ModifyABit.exe
+E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\14.ModifyABit\bin\Debug\14.ModifyABit.pdb
+E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\14.ModifyABit\obj\Debug\14.ModifyABit.csprojResolveAssemblyReference.cache

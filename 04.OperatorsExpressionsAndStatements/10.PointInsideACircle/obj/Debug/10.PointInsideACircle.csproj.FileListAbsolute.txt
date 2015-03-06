@@ -1,0 +1,7 @@
+e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\10.PointInsideACircle\bin\Debug\10.PointInsideACircle.exe
+e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\10.PointInsideACircle\bin\Debug\10.PointInsideACircle.pdb
+e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\10.PointInsideACircle\obj\Debug\10.PointInsideACircle.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\10.PointInsideACircle\obj\Debug\10.PointInsideACircle.exe
+e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\10.PointInsideACircle\obj\Debug\10.PointInsideACircle.pdb
+E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\10.PointInsideACircle\obj\Debug\10.PointInsideACircle.exe
+E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\10.PointInsideACircle\obj\Debug\10.PointInsideACircle.pdb
