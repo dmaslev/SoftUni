@@ -1,0 +1,10 @@
+e:\documents\visual studio 2013\Projects\01.HomeworkIntoProgramming\14.CurrentDatTime\bin\Debug\14.CurrentDatTime.exe.config
+e:\documents\visual studio 2013\Projects\01.HomeworkIntoProgramming\14.CurrentDatTime\bin\Debug\14.CurrentDatTime.exe
+e:\documents\visual studio 2013\Projects\01.HomeworkIntoProgramming\14.CurrentDatTime\bin\Debug\14.CurrentDatTime.pdb
+e:\documents\visual studio 2013\Projects\01.HomeworkIntoProgramming\14.CurrentDatTime\obj\Debug\14.CurrentDatTime.exe
+e:\documents\visual studio 2013\Projects\01.HomeworkIntoProgramming\14.CurrentDatTime\obj\Debug\14.CurrentDatTime.pdb
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\14.CurrentDatTime\bin\Debug\14.CurrentDatTime.exe.config
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\14.CurrentDatTime\obj\Debug\14.CurrentDatTime.exe
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\14.CurrentDatTime\obj\Debug\14.CurrentDatTime.pdb
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\14.CurrentDatTime\bin\Debug\14.CurrentDatTime.exe
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\14.CurrentDatTime\bin\Debug\14.CurrentDatTime.pdb

@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\1.DeclareVariables\obj\Debug\1.DeclareVariables.exe
+e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\1.DeclareVariables\obj\Debug\1.DeclareVariables.pdb
+e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe
+e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\1.DeclareVariables\bin\Debug\1.DeclareVariables.pdb
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\1.DeclareVariables\obj\Debug\1.DeclareVariables.exe
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\1.DeclareVariables\obj\Debug\1.DeclareVariables.pdb

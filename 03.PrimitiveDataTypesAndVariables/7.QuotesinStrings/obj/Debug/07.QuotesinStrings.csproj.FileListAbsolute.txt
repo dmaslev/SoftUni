@@ -1,0 +1,8 @@
+E:\Documents\Visual Studio 2013\Projects\2.PrimitiveDataTypesAndVariables\7.QuotesinStrings\obj\Debug\7.QuotesinStrings.exe
+E:\Documents\Visual Studio 2013\Projects\2.PrimitiveDataTypesAndVariables\7.QuotesinStrings\obj\Debug\7.QuotesinStrings.pdb
+E:\Documents\Visual Studio 2013\Projects\2.PrimitiveDataTypesAndVariables\7.QuotesinStrings\bin\Debug\7.QuotesinStrings.exe
+E:\Documents\Visual Studio 2013\Projects\2.PrimitiveDataTypesAndVariables\7.QuotesinStrings\bin\Debug\7.QuotesinStrings.pdb
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\7.QuotesinStrings\obj\Debug\7.QuotesinStrings.exe
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\7.QuotesinStrings\obj\Debug\7.QuotesinStrings.pdb
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\7.QuotesinStrings\bin\Debug\7.QuotesinStrings.exe
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\7.QuotesinStrings\bin\Debug\7.QuotesinStrings.pdb
