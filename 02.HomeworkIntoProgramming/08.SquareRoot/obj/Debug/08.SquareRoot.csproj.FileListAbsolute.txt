@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\08.SquareRoot\bin\Debug\08.SquareRoot.exe.config
-E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\08.SquareRoot\bin\Debug\08.SquareRoot.exe
-E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\08.SquareRoot\bin\Debug\08.SquareRoot.pdb
-E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\08.SquareRoot\obj\Debug\08.SquareRoot.exe
-E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\08.SquareRoot\obj\Debug\08.SquareRoot.pdb

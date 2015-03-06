@@ -1,8 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\2.PrimitiveDataTypesAndVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
-E:\Documents\Visual Studio 2013\Projects\2.PrimitiveDataTypesAndVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
-E:\Documents\Visual Studio 2013\Projects\2.PrimitiveDataTypesAndVariables\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
-E:\Documents\Visual Studio 2013\Projects\2.PrimitiveDataTypesAndVariables\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb
-E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
-E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb
-E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
-E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb

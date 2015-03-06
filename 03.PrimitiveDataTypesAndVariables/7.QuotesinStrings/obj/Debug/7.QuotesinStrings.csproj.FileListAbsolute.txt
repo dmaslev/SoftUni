@@ -1,5 +1,0 @@
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\7.QuotesinStrings\bin\Debug\7.QuotesinStrings.exe
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\7.QuotesinStrings\bin\Debug\7.QuotesinStrings.pdb
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\7.QuotesinStrings\obj\Debug\7.QuotesinStrings.exe
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\7.QuotesinStrings\obj\Debug\7.QuotesinStrings.pdb
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\7.QuotesinStrings\obj\Debug\7.QuotesinStrings.csprojResolveAssemblyReference.cache

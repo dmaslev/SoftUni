@@ -1,6 +1,0 @@
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe.config
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\1.DeclareVariables\bin\Debug\1.DeclareVariables.pdb
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\1.DeclareVariables\obj\Debug\1.DeclareVariables.csprojResolveAssemblyReference.cache
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\1.DeclareVariables\obj\Debug\1.DeclareVariables.exe
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\1.DeclareVariables\obj\Debug\1.DeclareVariables.pdb
