@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\ExamSample02\DayToApplyAtSoftUni\bin\Debug\DayToApplyAtSoftUni.exe.config
+e:\documents\visual studio 2013\Projects\ExamSample02\DayToApplyAtSoftUni\bin\Debug\DayToApplyAtSoftUni.exe
+e:\documents\visual studio 2013\Projects\ExamSample02\DayToApplyAtSoftUni\bin\Debug\DayToApplyAtSoftUni.pdb
+e:\documents\visual studio 2013\Projects\ExamSample02\DayToApplyAtSoftUni\obj\Debug\DayToApplyAtSoftUni.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\ExamSample02\DayToApplyAtSoftUni\obj\Debug\DayToApplyAtSoftUni.exe
+e:\documents\visual studio 2013\Projects\ExamSample02\DayToApplyAtSoftUni\obj\Debug\DayToApplyAtSoftUni.pdb

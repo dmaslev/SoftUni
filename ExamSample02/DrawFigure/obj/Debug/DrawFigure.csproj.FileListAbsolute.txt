@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\ExamSample02\DrawFigure\bin\Debug\DrawFigure.exe.config
+e:\documents\visual studio 2013\Projects\ExamSample02\DrawFigure\bin\Debug\DrawFigure.exe
+e:\documents\visual studio 2013\Projects\ExamSample02\DrawFigure\bin\Debug\DrawFigure.pdb
+e:\documents\visual studio 2013\Projects\ExamSample02\DrawFigure\obj\Debug\DrawFigure.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\ExamSample02\DrawFigure\obj\Debug\DrawFigure.exe
+e:\documents\visual studio 2013\Projects\ExamSample02\DrawFigure\obj\Debug\DrawFigure.pdb

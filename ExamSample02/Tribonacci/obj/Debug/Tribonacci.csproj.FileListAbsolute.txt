@@ -1,0 +1,5 @@
+e:\documents\visual studio 2013\Projects\ExamSample02\Tribonacci\bin\Debug\Tribonacci.exe.config
+e:\documents\visual studio 2013\Projects\ExamSample02\Tribonacci\bin\Debug\Tribonacci.exe
+e:\documents\visual studio 2013\Projects\ExamSample02\Tribonacci\bin\Debug\Tribonacci.pdb
+e:\documents\visual studio 2013\Projects\ExamSample02\Tribonacci\obj\Debug\Tribonacci.exe
+e:\documents\visual studio 2013\Projects\ExamSample02\Tribonacci\obj\Debug\Tribonacci.pdb
