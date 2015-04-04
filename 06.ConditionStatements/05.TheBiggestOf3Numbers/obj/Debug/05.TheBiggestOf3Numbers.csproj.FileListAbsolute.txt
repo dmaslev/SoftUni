@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\05.TheBiggestOf3Numbers\bin\Debug\05.TheBiggestOf3Numbers.exe.config
+E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\05.TheBiggestOf3Numbers\bin\Debug\05.TheBiggestOf3Numbers.exe
+E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\05.TheBiggestOf3Numbers\bin\Debug\05.TheBiggestOf3Numbers.pdb
+E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\05.TheBiggestOf3Numbers\obj\Debug\05.TheBiggestOf3Numbers.exe
+E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\05.TheBiggestOf3Numbers\obj\Debug\05.TheBiggestOf3Numbers.pdb
