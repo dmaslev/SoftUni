@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\ExamSample\HouseV2\bin\Debug\HouseV2.exe.config
+e:\documents\visual studio 2013\Projects\ExamSample\HouseV2\bin\Debug\HouseV2.exe
+e:\documents\visual studio 2013\Projects\ExamSample\HouseV2\bin\Debug\HouseV2.pdb
+e:\documents\visual studio 2013\Projects\ExamSample\HouseV2\obj\Debug\HouseV2.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\ExamSample\HouseV2\obj\Debug\HouseV2.exe
+e:\documents\visual studio 2013\Projects\ExamSample\HouseV2\obj\Debug\HouseV2.pdb

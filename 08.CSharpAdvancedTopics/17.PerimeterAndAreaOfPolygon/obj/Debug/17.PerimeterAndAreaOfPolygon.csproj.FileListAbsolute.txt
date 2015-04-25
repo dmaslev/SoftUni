@@ -1,0 +1,1 @@
+E:\Documents\Visual Studio 2013\Projects\08.CSharpAdvancedTopics\17.PerimeterAndAreaOfPolygon\bin\Debug\17.PerimeterAndAreaOfPolygon.exe.config

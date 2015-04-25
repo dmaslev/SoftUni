@@ -1,0 +1,5 @@
+D:\ExamSample03\Headphones\bin\Debug\Headphones.exe.config
+D:\ExamSample03\Headphones\bin\Debug\Headphones.exe
+D:\ExamSample03\Headphones\bin\Debug\Headphones.pdb
+D:\ExamSample03\Headphones\obj\Debug\Headphones.exe
+D:\ExamSample03\Headphones\obj\Debug\Headphones.pdb

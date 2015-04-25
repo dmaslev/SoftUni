@@ -1,0 +1,6 @@
+D:\ExamSample03\BabaTincheAirlines\bin\Debug\BabaTincheAirlines.exe.config
+D:\ExamSample03\BabaTincheAirlines\obj\Debug\BabaTincheAirlines.csprojResolveAssemblyReference.cache
+D:\ExamSample03\BabaTincheAirlines\bin\Debug\BabaTincheAirlines.exe
+D:\ExamSample03\BabaTincheAirlines\bin\Debug\BabaTincheAirlines.pdb
+D:\ExamSample03\BabaTincheAirlines\obj\Debug\BabaTincheAirlines.exe
+D:\ExamSample03\BabaTincheAirlines\obj\Debug\BabaTincheAirlines.pdb

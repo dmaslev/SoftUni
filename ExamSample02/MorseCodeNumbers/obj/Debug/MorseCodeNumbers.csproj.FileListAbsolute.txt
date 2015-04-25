@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2013\Projects\ExamSample02\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe.config
+E:\Documents\Visual Studio 2013\Projects\ExamSample02\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\ExamSample02\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.exe
+E:\Documents\Visual Studio 2013\Projects\ExamSample02\MorseCodeNumbers\bin\Debug\MorseCodeNumbers.pdb
+E:\Documents\Visual Studio 2013\Projects\ExamSample02\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.exe
+E:\Documents\Visual Studio 2013\Projects\ExamSample02\MorseCodeNumbers\obj\Debug\MorseCodeNumbers.pdb

@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2013\Projects\ExamSample03\Numerology\bin\Debug\Numerology.exe.config
+E:\Documents\Visual Studio 2013\Projects\ExamSample03\Numerology\bin\Debug\Numerology.exe
+E:\Documents\Visual Studio 2013\Projects\ExamSample03\Numerology\bin\Debug\Numerology.pdb
+E:\Documents\Visual Studio 2013\Projects\ExamSample03\Numerology\obj\Debug\Numerology.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\ExamSample03\Numerology\obj\Debug\Numerology.exe
+E:\Documents\Visual Studio 2013\Projects\ExamSample03\Numerology\obj\Debug\Numerology.pdb
