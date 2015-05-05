@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2013\Projects\ExamSample\FiveSPecialLetters\bin\Debug\FiveSPecialLetters.exe.config
+E:\Documents\Visual Studio 2013\Projects\ExamSample\FiveSPecialLetters\obj\Debug\FiveSPecialLetters.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\ExamSample\FiveSPecialLetters\bin\Debug\FiveSPecialLetters.exe
+E:\Documents\Visual Studio 2013\Projects\ExamSample\FiveSPecialLetters\bin\Debug\FiveSPecialLetters.pdb
+E:\Documents\Visual Studio 2013\Projects\ExamSample\FiveSPecialLetters\obj\Debug\FiveSPecialLetters.exe
+E:\Documents\Visual Studio 2013\Projects\ExamSample\FiveSPecialLetters\obj\Debug\FiveSPecialLetters.pdb

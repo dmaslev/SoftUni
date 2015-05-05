@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicCarNumbers\bin\Debug\MagicCarNumbers.exe.config
+E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicCarNumbers\bin\Debug\MagicCarNumbers.exe
+E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicCarNumbers\bin\Debug\MagicCarNumbers.pdb
+E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicCarNumbers\obj\Debug\MagicCarNumbers.exe
+E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicCarNumbers\obj\Debug\MagicCarNumbers.pdb
+E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicCarNumbers\obj\Debug\MagicCarNumbers.csprojResolveAssemblyReference.cache

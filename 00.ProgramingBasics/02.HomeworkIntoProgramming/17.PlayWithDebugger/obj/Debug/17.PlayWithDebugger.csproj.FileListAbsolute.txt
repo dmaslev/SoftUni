@@ -1,0 +1,10 @@
+e:\documents\visual studio 2013\Projects\01.HomeworkIntoProgramming\17.PlayWithDebugger\bin\Debug\17.PlayWithDebugger.exe.config
+e:\documents\visual studio 2013\Projects\01.HomeworkIntoProgramming\17.PlayWithDebugger\bin\Debug\17.PlayWithDebugger.exe
+e:\documents\visual studio 2013\Projects\01.HomeworkIntoProgramming\17.PlayWithDebugger\bin\Debug\17.PlayWithDebugger.pdb
+e:\documents\visual studio 2013\Projects\01.HomeworkIntoProgramming\17.PlayWithDebugger\obj\Debug\17.PlayWithDebugger.exe
+e:\documents\visual studio 2013\Projects\01.HomeworkIntoProgramming\17.PlayWithDebugger\obj\Debug\17.PlayWithDebugger.pdb
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\17.PlayWithDebugger\bin\Debug\17.PlayWithDebugger.exe.config
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\17.PlayWithDebugger\obj\Debug\17.PlayWithDebugger.exe
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\17.PlayWithDebugger\obj\Debug\17.PlayWithDebugger.pdb
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\17.PlayWithDebugger\bin\Debug\17.PlayWithDebugger.exe
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\17.PlayWithDebugger\bin\Debug\17.PlayWithDebugger.pdb

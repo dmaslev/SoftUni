@@ -1,0 +1,11 @@
+e:\documents\visual studio 2013\Projects\4.InputOutputConsole\1.SumNumbers\bin\Debug\1.SumNumbers.exe.config
+e:\documents\visual studio 2013\Projects\4.InputOutputConsole\1.SumNumbers\bin\Debug\1.SumNumbers.exe
+e:\documents\visual studio 2013\Projects\4.InputOutputConsole\1.SumNumbers\bin\Debug\1.SumNumbers.pdb
+e:\documents\visual studio 2013\Projects\4.InputOutputConsole\1.SumNumbers\obj\Debug\1.SumNumbers.exe
+e:\documents\visual studio 2013\Projects\4.InputOutputConsole\1.SumNumbers\obj\Debug\1.SumNumbers.pdb
+E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\1.SumNumbers\bin\Debug\1.SumNumbers.exe.config
+E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\1.SumNumbers\obj\Debug\1.SumNumbers.exe
+E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\1.SumNumbers\obj\Debug\1.SumNumbers.pdb
+E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\1.SumNumbers\bin\Debug\1.SumNumbers.exe
+E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\1.SumNumbers\bin\Debug\1.SumNumbers.pdb
+E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\1.SumNumbers\obj\Debug\01.SumNumbers.csprojResolveAssemblyReference.cache

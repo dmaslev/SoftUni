@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\07.Loops\04.PrintDeckCards\bin\Debug\04.PrintDeckCards.exe.config
+e:\documents\visual studio 2013\Projects\07.Loops\04.PrintDeckCards\bin\Debug\04.PrintDeckCards.exe
+e:\documents\visual studio 2013\Projects\07.Loops\04.PrintDeckCards\bin\Debug\04.PrintDeckCards.pdb
+e:\documents\visual studio 2013\Projects\07.Loops\04.PrintDeckCards\obj\Debug\04.PrintDeckCards.exe
+e:\documents\visual studio 2013\Projects\07.Loops\04.PrintDeckCards\obj\Debug\04.PrintDeckCards.pdb
+E:\Documents\Visual Studio 2013\Projects\07.Loops\04.PrintDeckCards\obj\Debug\04.PrintDeckCards.csprojResolveAssemblyReference.cache

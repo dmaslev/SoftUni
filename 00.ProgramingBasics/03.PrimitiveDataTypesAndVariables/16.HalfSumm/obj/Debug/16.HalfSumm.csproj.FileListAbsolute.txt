@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\16.HalfSumm\bin\Debug\16.HalfSumm.exe.config
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\16.HalfSumm\bin\Debug\16.HalfSumm.exe
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\16.HalfSumm\bin\Debug\16.HalfSumm.pdb
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\16.HalfSumm\obj\Debug\16.HalfSumm.exe
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\16.HalfSumm\obj\Debug\16.HalfSumm.pdb
+E:\Documents\Visual Studio 2013\Projects\03.PrimitiveDataTypesAndVariables\16.HalfSumm\obj\Debug\16.HalfSumm.csprojResolveAssemblyReference.cache

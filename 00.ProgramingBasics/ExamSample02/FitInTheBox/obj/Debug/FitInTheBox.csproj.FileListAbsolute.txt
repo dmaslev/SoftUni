@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2013\Projects\ExamSample02\FitInTheBox\bin\Debug\FitInTheBox.exe.config
+E:\Documents\Visual Studio 2013\Projects\ExamSample02\FitInTheBox\bin\Debug\FitInTheBox.exe
+E:\Documents\Visual Studio 2013\Projects\ExamSample02\FitInTheBox\bin\Debug\FitInTheBox.pdb
+E:\Documents\Visual Studio 2013\Projects\ExamSample02\FitInTheBox\obj\Debug\FitInTheBox.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\ExamSample02\FitInTheBox\obj\Debug\FitInTheBox.exe
+E:\Documents\Visual Studio 2013\Projects\ExamSample02\FitInTheBox\obj\Debug\FitInTheBox.pdb

@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2013\Projects\ExamSample\BitSifting\bin\Debug\BitSifting.exe.config
+E:\Documents\Visual Studio 2013\Projects\ExamSample\BitSifting\bin\Debug\BitSifting.exe
+E:\Documents\Visual Studio 2013\Projects\ExamSample\BitSifting\bin\Debug\BitSifting.pdb
+E:\Documents\Visual Studio 2013\Projects\ExamSample\BitSifting\obj\Debug\BitSifting.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\ExamSample\BitSifting\obj\Debug\BitSifting.exe
+E:\Documents\Visual Studio 2013\Projects\ExamSample\BitSifting\obj\Debug\BitSifting.pdb

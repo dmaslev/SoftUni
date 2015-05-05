@@ -1,0 +1,5 @@
+e:\documents\visual studio 2013\Projects\07.Loops\03.MinMaxSumAvg\bin\Debug\03.MinMaxSumAvg.exe.config
+e:\documents\visual studio 2013\Projects\07.Loops\03.MinMaxSumAvg\bin\Debug\03.MinMaxSumAvg.exe
+e:\documents\visual studio 2013\Projects\07.Loops\03.MinMaxSumAvg\bin\Debug\03.MinMaxSumAvg.pdb
+e:\documents\visual studio 2013\Projects\07.Loops\03.MinMaxSumAvg\obj\Debug\03.MinMaxSumAvg.exe
+e:\documents\visual studio 2013\Projects\07.Loops\03.MinMaxSumAvg\obj\Debug\03.MinMaxSumAvg.pdb

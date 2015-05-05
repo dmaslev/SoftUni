@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\ExamSample\4.01.Cinema\bin\Debug\4.01.Cinema.exe.config
+e:\documents\visual studio 2013\Projects\ExamSample\4.01.Cinema\obj\Debug\4.01.Cinema.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\ExamSample\4.01.Cinema\bin\Debug\4.01.Cinema.exe
+e:\documents\visual studio 2013\Projects\ExamSample\4.01.Cinema\bin\Debug\4.01.Cinema.pdb
+e:\documents\visual studio 2013\Projects\ExamSample\4.01.Cinema\obj\Debug\4.01.Cinema.exe
+e:\documents\visual studio 2013\Projects\ExamSample\4.01.Cinema\obj\Debug\4.01.Cinema.pdb

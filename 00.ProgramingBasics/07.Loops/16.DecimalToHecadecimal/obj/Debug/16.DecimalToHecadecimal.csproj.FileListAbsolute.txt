@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2013\Projects\07.Loops\16.DecimalToHecadecimal\bin\Debug\16.DecimalToHecadecimal.exe.config
+E:\Documents\Visual Studio 2013\Projects\07.Loops\16.DecimalToHecadecimal\obj\Debug\16.DecimalToHecadecimal.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\07.Loops\16.DecimalToHecadecimal\bin\Debug\16.DecimalToHecadecimal.exe
+E:\Documents\Visual Studio 2013\Projects\07.Loops\16.DecimalToHecadecimal\bin\Debug\16.DecimalToHecadecimal.pdb
+E:\Documents\Visual Studio 2013\Projects\07.Loops\16.DecimalToHecadecimal\obj\Debug\16.DecimalToHecadecimal.exe
+E:\Documents\Visual Studio 2013\Projects\07.Loops\16.DecimalToHecadecimal\obj\Debug\16.DecimalToHecadecimal.pdb

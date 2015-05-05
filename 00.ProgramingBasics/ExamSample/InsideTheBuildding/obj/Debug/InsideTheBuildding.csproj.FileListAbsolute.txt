@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2013\Projects\ExamSample\InsideTheBuildding\bin\Debug\InsideTheBuildding.exe.config
+E:\Documents\Visual Studio 2013\Projects\ExamSample\InsideTheBuildding\obj\Debug\InsideTheBuildding.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\ExamSample\InsideTheBuildding\bin\Debug\InsideTheBuildding.exe
+E:\Documents\Visual Studio 2013\Projects\ExamSample\InsideTheBuildding\bin\Debug\InsideTheBuildding.pdb
+E:\Documents\Visual Studio 2013\Projects\ExamSample\InsideTheBuildding\obj\Debug\InsideTheBuildding.exe
+E:\Documents\Visual Studio 2013\Projects\ExamSample\InsideTheBuildding\obj\Debug\InsideTheBuildding.pdb

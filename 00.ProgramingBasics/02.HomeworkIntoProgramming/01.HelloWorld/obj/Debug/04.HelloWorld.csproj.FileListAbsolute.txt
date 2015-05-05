@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\01.HelloWorld\bin\Debug\01.HelloWorld.exe.config
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\01.HelloWorld\obj\Debug\01.HelloWorld.exe
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\01.HelloWorld\obj\Debug\01.HelloWorld.pdb
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\01.HelloWorld\bin\Debug\01.HelloWorld.exe
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\01.HelloWorld\bin\Debug\01.HelloWorld.pdb
+E:\Documents\Visual Studio 2013\Projects\02.HomeworkIntoProgramming\01.HelloWorld\obj\Debug\04.HelloWorld.csprojResolveAssemblyReference.cache
