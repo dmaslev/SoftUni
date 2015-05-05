@@ -1,0 +1,1 @@
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\06.SubsetSums\bin\Debug\06.SubsetSums.exe.config

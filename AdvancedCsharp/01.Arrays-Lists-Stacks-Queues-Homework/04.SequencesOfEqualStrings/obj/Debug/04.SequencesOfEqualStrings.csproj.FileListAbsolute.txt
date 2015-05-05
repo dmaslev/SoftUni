@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\04.SequencesOfEqualStrings\bin\Debug\04.SequencesOfEqualStrings.exe.config
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\04.SequencesOfEqualStrings\bin\Debug\04.SequencesOfEqualStrings.exe
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\04.SequencesOfEqualStrings\bin\Debug\04.SequencesOfEqualStrings.pdb
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\04.SequencesOfEqualStrings\obj\Debug\04.SequencesOfEqualStrings.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\04.SequencesOfEqualStrings\obj\Debug\04.SequencesOfEqualStrings.exe
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\04.SequencesOfEqualStrings\obj\Debug\04.SequencesOfEqualStrings.pdb

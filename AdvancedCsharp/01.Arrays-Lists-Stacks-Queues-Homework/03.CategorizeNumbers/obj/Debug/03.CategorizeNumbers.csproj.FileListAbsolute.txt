@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe.config
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.pdb
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.exe
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.pdb
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.csprojResolveAssemblyReference.cache
