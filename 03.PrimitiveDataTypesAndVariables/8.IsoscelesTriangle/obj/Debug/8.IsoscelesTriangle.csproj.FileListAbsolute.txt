@@ -1,5 +1,0 @@
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\bin\Debug\8.IsoscelesTriangle.exe.config
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\bin\Debug\8.IsoscelesTriangle.exe
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\bin\Debug\8.IsoscelesTriangle.pdb
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\obj\Debug\8.IsoscelesTriangle.exe
-e:\documents\visual studio 2013\Projects\2.PrimitiveDataTypesAndVariables\8.IsoscelesTriangle\obj\Debug\8.IsoscelesTriangle.pdb
