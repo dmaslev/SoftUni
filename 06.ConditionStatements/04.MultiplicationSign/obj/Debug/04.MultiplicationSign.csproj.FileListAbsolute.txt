@@ -1,5 +1,0 @@
-e:\documents\visual studio 2013\Projects\06.ConditionStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
-e:\documents\visual studio 2013\Projects\06.ConditionStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
-e:\documents\visual studio 2013\Projects\06.ConditionStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
-e:\documents\visual studio 2013\Projects\06.ConditionStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
-e:\documents\visual studio 2013\Projects\06.ConditionStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb

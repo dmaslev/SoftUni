@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe.config
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\11.NumberAsWords\bin\Debug\11.NumberAsWords.pdb
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\11.NumberAsWords\obj\Debug\11.NumberAsWords.csprojResolveAssemblyReference.cache

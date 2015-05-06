@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

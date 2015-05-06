@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\09.IntDoubleString\bin\Debug\09.IntDoubleString.exe.config
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\09.IntDoubleString\bin\Debug\09.IntDoubleString.exe
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\09.IntDoubleString\bin\Debug\09.IntDoubleString.pdb
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\09.IntDoubleString\obj\Debug\09.IntDoubleString.exe
-E:\Documents\Visual Studio 2013\Projects\06.ConditionStatements\09.IntDoubleString\obj\Debug\09.IntDoubleString.pdb

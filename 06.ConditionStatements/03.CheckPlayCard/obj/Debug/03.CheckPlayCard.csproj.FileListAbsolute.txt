@@ -1,6 +1,0 @@
-e:\documents\visual studio 2013\Projects\06.ConditionStatements\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe.config
-e:\documents\visual studio 2013\Projects\06.ConditionStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.csprojResolveAssemblyReference.cache
-e:\documents\visual studio 2013\Projects\06.ConditionStatements\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe
-e:\documents\visual studio 2013\Projects\06.ConditionStatements\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.pdb
-e:\documents\visual studio 2013\Projects\06.ConditionStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.exe
-e:\documents\visual studio 2013\Projects\06.ConditionStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.pdb
