@@ -4,9 +4,3 @@ E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\17.CatchTheBits\b
 E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\17.CatchTheBits\bin\Debug\17.CatchTheBits.pdb
 E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\17.CatchTheBits\obj\Debug\17.CatchTheBits.exe
 E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\17.CatchTheBits\obj\Debug\17.CatchTheBits.pdb
-D:\05.InputOutputConsole\17.CatchTheBits\bin\Debug\17.CatchTheBits.exe.config
-D:\05.InputOutputConsole\17.CatchTheBits\obj\Debug\17.CatchTheBits.exe
-D:\05.InputOutputConsole\17.CatchTheBits\obj\Debug\17.CatchTheBits.pdb
-D:\05.InputOutputConsole\17.CatchTheBits\bin\Debug\17.CatchTheBits.exe
-D:\05.InputOutputConsole\17.CatchTheBits\bin\Debug\17.CatchTheBits.pdb
-D:\05.InputOutputConsole\17.CatchTheBits\obj\Debug\17.CatchTheBits.csprojResolveAssemblyReference.cache
