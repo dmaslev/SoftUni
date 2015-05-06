@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\Exam-26-04-2015\05\bin\Debug\05.exe.config
+e:\documents\visual studio 2013\Projects\Exam-26-04-2015\05\obj\Debug\05.exe
+e:\documents\visual studio 2013\Projects\Exam-26-04-2015\05\obj\Debug\05.pdb
+E:\Documents\Visual Studio 2013\Projects\Exam-26-04-2015\05\bin\Debug\05.exe
+E:\Documents\Visual Studio 2013\Projects\Exam-26-04-2015\05\bin\Debug\05.pdb
+E:\Documents\Visual Studio 2013\Projects\Exam-26-04-2015\05\obj\Debug\05.csprojResolveAssemblyReference.cache

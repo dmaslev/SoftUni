@@ -1,0 +1,5 @@
+e:\documents\visual studio 2013\Projects\Exam-26-04-2015\06.Test\bin\Debug\06.Test.exe.config
+E:\Documents\Visual Studio 2013\Projects\Exam-26-04-2015\06.Test\bin\Debug\06.Test.exe
+E:\Documents\Visual Studio 2013\Projects\Exam-26-04-2015\06.Test\bin\Debug\06.Test.pdb
+E:\Documents\Visual Studio 2013\Projects\Exam-26-04-2015\06.Test\obj\Debug\06.Test.exe
+E:\Documents\Visual Studio 2013\Projects\Exam-26-04-2015\06.Test\obj\Debug\06.Test.pdb
