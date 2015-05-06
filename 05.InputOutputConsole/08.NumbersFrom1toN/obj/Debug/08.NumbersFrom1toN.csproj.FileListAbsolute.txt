@@ -1,6 +1,0 @@
-e:\documents\visual studio 2013\Projects\4.InputOutputConsole\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe.config
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe.config
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.pdb
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.exe
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.pdb

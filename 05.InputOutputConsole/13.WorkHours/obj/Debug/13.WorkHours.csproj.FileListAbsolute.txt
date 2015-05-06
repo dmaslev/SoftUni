@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\13.WorkHours\bin\Debug\13.WorkHours.exe.config
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\13.WorkHours\bin\Debug\13.WorkHours.exe
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\13.WorkHours\bin\Debug\13.WorkHours.pdb
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\13.WorkHours\obj\Debug\13.WorkHours.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\13.WorkHours\obj\Debug\13.WorkHours.exe
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\13.WorkHours\obj\Debug\13.WorkHours.pdb

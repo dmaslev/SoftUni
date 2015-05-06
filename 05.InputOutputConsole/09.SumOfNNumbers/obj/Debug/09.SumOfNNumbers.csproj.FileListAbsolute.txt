@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb

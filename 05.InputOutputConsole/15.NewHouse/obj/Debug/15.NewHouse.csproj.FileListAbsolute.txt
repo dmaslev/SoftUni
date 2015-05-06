@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\15.NewHouse\bin\Debug\15.NewHouse.exe.config
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\15.NewHouse\bin\Debug\15.NewHouse.exe
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\15.NewHouse\bin\Debug\15.NewHouse.pdb
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\15.NewHouse\obj\Debug\15.NewHouse.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\15.NewHouse\obj\Debug\15.NewHouse.exe
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\15.NewHouse\obj\Debug\15.NewHouse.pdb

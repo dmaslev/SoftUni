@@ -1,9 +1,0 @@
-e:\documents\visual studio 2013\Projects\4.InputOutputConsole\04.NumberComparer\bin\Debug\04.NumberComparer.exe.config
-e:\documents\visual studio 2013\Projects\4.InputOutputConsole\04.NumberComparer\bin\Debug\04.NumberComparer.exe
-e:\documents\visual studio 2013\Projects\4.InputOutputConsole\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
-e:\documents\visual studio 2013\Projects\4.InputOutputConsole\04.NumberComparer\obj\Debug\04.NumberComparer.exe
-e:\documents\visual studio 2013\Projects\4.InputOutputConsole\04.NumberComparer\obj\Debug\04.NumberComparer.pdb
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\04.NumberComparer\obj\Debug\04.NumberComparer.exe
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\04.NumberComparer\obj\Debug\04.NumberComparer.pdb
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\04.NumberComparer\bin\Debug\04.NumberComparer.exe
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\04.NumberComparer\bin\Debug\04.NumberComparer.pdb

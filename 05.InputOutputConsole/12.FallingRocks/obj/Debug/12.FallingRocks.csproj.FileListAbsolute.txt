@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\12.FallingRocks\bin\Debug\12.FallingRocks.exe.config
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\12.FallingRocks\bin\Debug\12.FallingRocks.exe
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\12.FallingRocks\bin\Debug\12.FallingRocks.pdb
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\12.FallingRocks\obj\Debug\12.FallingRocks.exe
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\12.FallingRocks\obj\Debug\12.FallingRocks.pdb

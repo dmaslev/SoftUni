@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\11.NumberInInterval\bin\Debug\11.NumberInInterval.exe.config
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\11.NumberInInterval\bin\Debug\11.NumberInInterval.exe
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\11.NumberInInterval\bin\Debug\11.NumberInInterval.pdb
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\11.NumberInInterval\obj\Debug\11.NumberInInterval.exe
-E:\Documents\Visual Studio 2013\Projects\05.InputOutputConsole\11.NumberInInterval\obj\Debug\11.NumberInInterval.pdb
