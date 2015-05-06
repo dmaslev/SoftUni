@@ -1,5 +1,0 @@
-e:\documents\visual studio 2013\Projects\ExamSample02\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe.config
-e:\documents\visual studio 2013\Projects\ExamSample02\WeAllLoveBits\bin\Debug\WeAllLoveBits.exe
-e:\documents\visual studio 2013\Projects\ExamSample02\WeAllLoveBits\bin\Debug\WeAllLoveBits.pdb
-e:\documents\visual studio 2013\Projects\ExamSample02\WeAllLoveBits\obj\Debug\WeAllLoveBits.exe
-e:\documents\visual studio 2013\Projects\ExamSample02\WeAllLoveBits\obj\Debug\WeAllLoveBits.pdb

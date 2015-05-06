@@ -1,6 +1,0 @@
-e:\documents\visual studio 2013\Projects\ExamSample02\CheatSheet\bin\Debug\CheatSheet.exe.config
-e:\documents\visual studio 2013\Projects\ExamSample02\CheatSheet\bin\Debug\CheatSheet.exe
-e:\documents\visual studio 2013\Projects\ExamSample02\CheatSheet\bin\Debug\CheatSheet.pdb
-e:\documents\visual studio 2013\Projects\ExamSample02\CheatSheet\obj\Debug\CheatSheet.csprojResolveAssemblyReference.cache
-e:\documents\visual studio 2013\Projects\ExamSample02\CheatSheet\obj\Debug\CheatSheet.exe
-e:\documents\visual studio 2013\Projects\ExamSample02\CheatSheet\obj\Debug\CheatSheet.pdb

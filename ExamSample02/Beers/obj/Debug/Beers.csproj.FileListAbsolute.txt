@@ -1,6 +1,0 @@
-e:\documents\visual studio 2013\Projects\ExamSample02\Beers\bin\Debug\Beers.exe.config
-e:\documents\visual studio 2013\Projects\ExamSample02\Beers\bin\Debug\Beers.exe
-e:\documents\visual studio 2013\Projects\ExamSample02\Beers\bin\Debug\Beers.pdb
-e:\documents\visual studio 2013\Projects\ExamSample02\Beers\obj\Debug\Beers.csprojResolveAssemblyReference.cache
-e:\documents\visual studio 2013\Projects\ExamSample02\Beers\obj\Debug\Beers.exe
-e:\documents\visual studio 2013\Projects\ExamSample02\Beers\obj\Debug\Beers.pdb
