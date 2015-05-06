@@ -1,7 +1,0 @@
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\2.GravitationOnTheMoon\bin\Debug\2.GravitationOnTheMoon.exe.config
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\2.GravitationOnTheMoon\bin\Debug\2.GravitationOnTheMoon.exe
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\2.GravitationOnTheMoon\bin\Debug\2.GravitationOnTheMoon.pdb
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\2.GravitationOnTheMoon\obj\Debug\2.GravitationOnTheMoon.exe
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\2.GravitationOnTheMoon\obj\Debug\2.GravitationOnTheMoon.pdb
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\2.GravitationOnTheMoon\obj\Debug\2.GravitationOnTheMoon.exe
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\2.GravitationOnTheMoon\obj\Debug\2.GravitationOnTheMoon.pdb

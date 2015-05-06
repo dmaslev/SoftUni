@@ -1,2 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\8.PrimeNumberCheck\obj\Debug\8.PrimeNumberCheck.exe
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\8.PrimeNumberCheck\obj\Debug\8.PrimeNumberCheck.pdb

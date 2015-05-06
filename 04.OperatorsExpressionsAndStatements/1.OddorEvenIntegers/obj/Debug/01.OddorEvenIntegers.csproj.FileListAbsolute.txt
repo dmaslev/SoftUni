@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\1.OddorEvenIntegers\obj\Debug\1.OddorEvenIntegers.exe
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\1.OddorEvenIntegers\obj\Debug\1.OddorEvenIntegers.pdb
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\1.OddorEvenIntegers\bin\Debug\1.OddorEvenIntegers.exe
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\1.OddorEvenIntegers\bin\Debug\1.OddorEvenIntegers.pdb
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\1.OddorEvenIntegers\obj\Debug\01.OddorEvenIntegers.csprojResolveAssemblyReference.cache

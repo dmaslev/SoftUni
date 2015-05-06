@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\16.BitsExchangeAdvanced\bin\Debug\16.BitsExchangeAdvanced.exe.config
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\16.BitsExchangeAdvanced\obj\Debug\16.BitsExchangeAdvanced.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\16.BitsExchangeAdvanced\bin\Debug\16.BitsExchangeAdvanced.exe
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\16.BitsExchangeAdvanced\bin\Debug\16.BitsExchangeAdvanced.pdb
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\16.BitsExchangeAdvanced\obj\Debug\16.BitsExchangeAdvanced.exe
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\16.BitsExchangeAdvanced\obj\Debug\16.BitsExchangeAdvanced.pdb

@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\19.TheExplorer\bin\Debug\19.TheExplorer.exe.config
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\19.TheExplorer\obj\Debug\19.TheExplorer.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\19.TheExplorer\bin\Debug\19.TheExplorer.exe
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\19.TheExplorer\bin\Debug\19.TheExplorer.pdb
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\19.TheExplorer\obj\Debug\19.TheExplorer.exe
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\19.TheExplorer\obj\Debug\19.TheExplorer.pdb

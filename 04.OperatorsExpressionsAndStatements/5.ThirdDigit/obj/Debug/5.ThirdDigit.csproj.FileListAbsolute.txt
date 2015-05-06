@@ -1,7 +1,0 @@
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\5.ThirdDigit\bin\Debug\5.ThirdDigit.exe.config
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\5.ThirdDigit\bin\Debug\5.ThirdDigit.exe
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\5.ThirdDigit\bin\Debug\5.ThirdDigit.pdb
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\5.ThirdDigit\obj\Debug\5.ThirdDigit.exe
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\5.ThirdDigit\obj\Debug\5.ThirdDigit.pdb
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\5.ThirdDigit\obj\Debug\5.ThirdDigit.exe
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\5.ThirdDigit\obj\Debug\5.ThirdDigit.pdb

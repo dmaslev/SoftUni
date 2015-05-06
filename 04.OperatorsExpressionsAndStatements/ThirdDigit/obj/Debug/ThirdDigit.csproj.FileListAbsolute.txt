@@ -1,5 +1,0 @@
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\ThirdDigit\bin\Debug\ThirdDigit.exe
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\ThirdDigit\bin\Debug\ThirdDigit.pdb
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\ThirdDigit\obj\Debug\ThirdDigit.csprojResolveAssemblyReference.cache
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\ThirdDigit\obj\Debug\ThirdDigit.exe
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\ThirdDigit\obj\Debug\ThirdDigit.pdb

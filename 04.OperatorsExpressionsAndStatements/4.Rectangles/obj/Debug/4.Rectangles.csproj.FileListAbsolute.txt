@@ -1,7 +1,0 @@
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\4.Rectangles\bin\Debug\4.Rectangles.exe.config
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\4.Rectangles\bin\Debug\4.Rectangles.exe
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\4.Rectangles\bin\Debug\4.Rectangles.pdb
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\4.Rectangles\obj\Debug\4.Rectangles.exe
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\4.Rectangles\obj\Debug\4.Rectangles.pdb
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\4.Rectangles\obj\Debug\4.Rectangles.exe
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\4.Rectangles\obj\Debug\4.Rectangles.pdb

@@ -1,7 +1,0 @@
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\7.PointCircle\bin\Debug\7.PointCircle.exe
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\7.PointCircle\bin\Debug\7.PointCircle.pdb
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\7.PointCircle\obj\Debug\7.PointCircle.csprojResolveAssemblyReference.cache
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\7.PointCircle\obj\Debug\7.PointCircle.exe
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\7.PointCircle\obj\Debug\7.PointCircle.pdb
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\7.PointCircle\obj\Debug\7.PointCircle.exe
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\7.PointCircle\obj\Debug\7.PointCircle.pdb

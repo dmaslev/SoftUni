@@ -1,6 +1,0 @@
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\3.DivideBy5and7\bin\Debug\3.DivideBy5and7.exe
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\3.DivideBy5and7\bin\Debug\3.DivideBy5and7.pdb
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\3.DivideBy5and7\obj\Debug\3.DivideBy5and7.exe
-e:\documents\visual studio 2013\Projects\3.OperatorsExpressionsAndStatements\3.DivideBy5and7\obj\Debug\3.DivideBy5and7.pdb
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\3.DivideBy5and7\obj\Debug\3.DivideBy5and7.exe
-E:\Documents\Visual Studio 2013\Projects\04.OperatorsExpressionsAndStatements\3.DivideBy5and7\obj\Debug\3.DivideBy5and7.pdb
