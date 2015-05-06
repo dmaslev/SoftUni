@@ -1,0 +1,5 @@
+e:\documents\visual studio 2013\Projects\03.Methods\Test\bin\Debug\Test.exe.config
+e:\documents\visual studio 2013\Projects\03.Methods\Test\bin\Debug\Test.exe
+e:\documents\visual studio 2013\Projects\03.Methods\Test\bin\Debug\Test.pdb
+e:\documents\visual studio 2013\Projects\03.Methods\Test\obj\Debug\Test.exe
+e:\documents\visual studio 2013\Projects\03.Methods\Test\obj\Debug\Test.pdb
