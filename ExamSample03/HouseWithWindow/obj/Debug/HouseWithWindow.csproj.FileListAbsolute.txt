@@ -1,6 +1,0 @@
-e:\documents\visual studio 2013\Projects\ExamSample03\HouseWithWindow\bin\Debug\HouseWithWindow.exe.config
-e:\documents\visual studio 2013\Projects\ExamSample03\HouseWithWindow\bin\Debug\HouseWithWindow.exe
-e:\documents\visual studio 2013\Projects\ExamSample03\HouseWithWindow\bin\Debug\HouseWithWindow.pdb
-e:\documents\visual studio 2013\Projects\ExamSample03\HouseWithWindow\obj\Debug\HouseWithWindow.csprojResolveAssemblyReference.cache
-e:\documents\visual studio 2013\Projects\ExamSample03\HouseWithWindow\obj\Debug\HouseWithWindow.exe
-e:\documents\visual studio 2013\Projects\ExamSample03\HouseWithWindow\obj\Debug\HouseWithWindow.pdb

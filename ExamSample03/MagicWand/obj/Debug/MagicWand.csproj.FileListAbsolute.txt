@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\MagicWand\bin\Debug\MagicWand.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\MagicWand\bin\Debug\MagicWand.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\MagicWand\bin\Debug\MagicWand.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\MagicWand\obj\Debug\MagicWand.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\MagicWand\obj\Debug\MagicWand.pdb

@@ -1,6 +1,0 @@
-e:\documents\visual studio 2013\Projects\ExamSample\5.03.House\bin\Debug\5.03.House.exe.config
-e:\documents\visual studio 2013\Projects\ExamSample\5.03.House\bin\Debug\5.03.House.exe
-e:\documents\visual studio 2013\Projects\ExamSample\5.03.House\bin\Debug\5.03.House.pdb
-e:\documents\visual studio 2013\Projects\ExamSample\5.03.House\obj\Debug\5.03.House.csprojResolveAssemblyReference.cache
-e:\documents\visual studio 2013\Projects\ExamSample\5.03.House\obj\Debug\5.03.House.exe
-e:\documents\visual studio 2013\Projects\ExamSample\5.03.House\obj\Debug\5.03.House.pdb

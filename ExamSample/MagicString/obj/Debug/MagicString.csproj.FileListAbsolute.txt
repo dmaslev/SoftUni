@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicString\bin\Debug\MagicString.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicString\bin\Debug\MagicString.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicString\bin\Debug\MagicString.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicString\obj\Debug\MagicString.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicString\obj\Debug\MagicString.pdb

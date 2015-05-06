@@ -1,5 +1,0 @@
-e:\documents\visual studio 2013\Projects\ExamSample03\OddAndEvenJumps\bin\Debug\OddAndEvenJumps.exe.config
-e:\documents\visual studio 2013\Projects\ExamSample03\OddAndEvenJumps\bin\Debug\OddAndEvenJumps.exe
-e:\documents\visual studio 2013\Projects\ExamSample03\OddAndEvenJumps\bin\Debug\OddAndEvenJumps.pdb
-e:\documents\visual studio 2013\Projects\ExamSample03\OddAndEvenJumps\obj\Debug\OddAndEvenJumps.exe
-e:\documents\visual studio 2013\Projects\ExamSample03\OddAndEvenJumps\obj\Debug\OddAndEvenJumps.pdb

@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\EncryptedMatrix\bin\Debug\EncryptedMatrix.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\EncryptedMatrix\bin\Debug\EncryptedMatrix.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\EncryptedMatrix\bin\Debug\EncryptedMatrix.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\EncryptedMatrix\obj\Debug\EncryptedMatrix.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\EncryptedMatrix\obj\Debug\EncryptedMatrix.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\EncryptedMatrix\obj\Debug\EncryptedMatrix.pdb

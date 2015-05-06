@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample\ProgrammerDNA\bin\Debug\ProgrammerDNA.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample\ProgrammerDNA\bin\Debug\ProgrammerDNA.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\ProgrammerDNA\bin\Debug\ProgrammerDNA.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample\ProgrammerDNA\obj\Debug\ProgrammerDNA.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\ProgrammerDNA\obj\Debug\ProgrammerDNA.pdb

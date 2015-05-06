@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicDates\bin\Debug\MagicDates.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicDates\bin\Debug\MagicDates.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicDates\bin\Debug\MagicDates.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicDates\obj\Debug\MagicDates.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicDates\obj\Debug\MagicDates.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample\MagicDates\obj\Debug\MagicDates.csprojResolveAssemblyReference.cache

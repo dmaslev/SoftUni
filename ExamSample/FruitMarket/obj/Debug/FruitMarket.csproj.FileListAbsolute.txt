@@ -1,5 +1,0 @@
-e:\documents\visual studio 2013\Projects\ExamSample\FruitMarket\bin\Debug\FruitMarket.exe.config
-e:\documents\visual studio 2013\Projects\ExamSample\FruitMarket\bin\Debug\FruitMarket.exe
-e:\documents\visual studio 2013\Projects\ExamSample\FruitMarket\bin\Debug\FruitMarket.pdb
-e:\documents\visual studio 2013\Projects\ExamSample\FruitMarket\obj\Debug\FruitMarket.exe
-e:\documents\visual studio 2013\Projects\ExamSample\FruitMarket\obj\Debug\FruitMarket.pdb

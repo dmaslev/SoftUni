@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BitKiller\bin\Debug\BitKiller.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BitKiller\bin\Debug\BitKiller.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BitKiller\bin\Debug\BitKiller.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BitKiller\obj\Debug\BitKiller.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BitKiller\obj\Debug\BitKiller.pdb

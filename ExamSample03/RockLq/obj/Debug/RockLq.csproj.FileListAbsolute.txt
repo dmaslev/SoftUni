@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\RockLq\bin\Debug\RockLq.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\RockLq\bin\Debug\RockLq.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\RockLq\bin\Debug\RockLq.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\RockLq\obj\Debug\RockLq.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\RockLq\obj\Debug\RockLq.pdb

@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\GameOfBits\bin\Debug\GameOfBits.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\GameOfBits\bin\Debug\GameOfBits.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\GameOfBits\bin\Debug\GameOfBits.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\GameOfBits\obj\Debug\GameOfBits.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\GameOfBits\obj\Debug\GameOfBits.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\GameOfBits\obj\Debug\GameOfBits.pdb

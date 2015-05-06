@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample\OddEvenSumm\bin\Debug\OddEvenSumm.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample\OddEvenSumm\bin\Debug\OddEvenSumm.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\OddEvenSumm\bin\Debug\OddEvenSumm.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample\OddEvenSumm\obj\Debug\OddEvenSumm.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\ExamSample\OddEvenSumm\obj\Debug\OddEvenSumm.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\OddEvenSumm\obj\Debug\OddEvenSumm.pdb

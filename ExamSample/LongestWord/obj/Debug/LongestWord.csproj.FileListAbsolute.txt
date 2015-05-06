@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample\LongestWord\bin\Debug\LongestWord.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample\LongestWord\bin\Debug\LongestWord.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\LongestWord\bin\Debug\LongestWord.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample\LongestWord\obj\Debug\LongestWord.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\ExamSample\LongestWord\obj\Debug\LongestWord.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\LongestWord\obj\Debug\LongestWord.pdb

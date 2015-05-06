@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample02\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample02\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample02\LettersSymbolsNumbers\bin\Debug\LettersSymbolsNumbers.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample02\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample02\LettersSymbolsNumbers\obj\Debug\LettersSymbolsNumbers.pdb

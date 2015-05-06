@@ -1,5 +1,0 @@
-e:\documents\visual studio 2013\Projects\07.Loops\06.CalcSomthing\bin\Debug\06.CalcSomthing.exe.config
-e:\documents\visual studio 2013\Projects\07.Loops\06.CalcSomthing\bin\Debug\06.CalcSomthing.exe
-e:\documents\visual studio 2013\Projects\07.Loops\06.CalcSomthing\bin\Debug\06.CalcSomthing.pdb
-e:\documents\visual studio 2013\Projects\07.Loops\06.CalcSomthing\obj\Debug\06.CalcSomthing.exe
-e:\documents\visual studio 2013\Projects\07.Loops\06.CalcSomthing\obj\Debug\06.CalcSomthing.pdb

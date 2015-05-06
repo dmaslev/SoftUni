@@ -1,1 +1,0 @@
-e:\documents\visual studio 2013\Projects\08.CSharpAdvancedTopics\6.LongestAreaInArray\bin\Debug\6.LongestAreaInArray.exe.config

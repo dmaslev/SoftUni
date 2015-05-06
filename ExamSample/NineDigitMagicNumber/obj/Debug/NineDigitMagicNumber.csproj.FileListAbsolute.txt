@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample\NineDigitMagicNumber\bin\Debug\NineDigitMagicNumber.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample\NineDigitMagicNumber\bin\Debug\NineDigitMagicNumber.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\NineDigitMagicNumber\bin\Debug\NineDigitMagicNumber.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample\NineDigitMagicNumber\obj\Debug\NineDigitMagicNumber.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\ExamSample\NineDigitMagicNumber\obj\Debug\NineDigitMagicNumber.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\NineDigitMagicNumber\obj\Debug\NineDigitMagicNumber.pdb

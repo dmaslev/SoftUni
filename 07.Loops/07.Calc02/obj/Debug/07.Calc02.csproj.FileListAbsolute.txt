@@ -1,6 +1,0 @@
-e:\documents\visual studio 2013\Projects\07.Loops\07.Calc02\bin\Debug\07.Calc02.exe.config
-e:\documents\visual studio 2013\Projects\07.Loops\07.Calc02\bin\Debug\07.Calc02.exe
-e:\documents\visual studio 2013\Projects\07.Loops\07.Calc02\bin\Debug\07.Calc02.pdb
-e:\documents\visual studio 2013\Projects\07.Loops\07.Calc02\obj\Debug\07.Calc02.csprojResolveAssemblyReference.cache
-e:\documents\visual studio 2013\Projects\07.Loops\07.Calc02\obj\Debug\07.Calc02.exe
-e:\documents\visual studio 2013\Projects\07.Loops\07.Calc02\obj\Debug\07.Calc02.pdb

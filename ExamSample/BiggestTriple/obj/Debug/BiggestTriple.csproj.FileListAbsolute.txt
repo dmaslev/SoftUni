@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BiggestTriple\bin\Debug\BiggestTriple.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BiggestTriple\bin\Debug\BiggestTriple.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BiggestTriple\bin\Debug\BiggestTriple.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BiggestTriple\obj\Debug\BiggestTriple.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BiggestTriple\obj\Debug\BiggestTriple.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BiggestTriple\obj\Debug\BiggestTriple.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\CurrencyCheck\bin\Debug\CurrencyCheck.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\CurrencyCheck\bin\Debug\CurrencyCheck.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\CurrencyCheck\bin\Debug\CurrencyCheck.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\CurrencyCheck\obj\Debug\CurrencyCheck.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\CurrencyCheck\obj\Debug\CurrencyCheck.pdb

@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\07.Loops\12.RandomizeNumbers\bin\Debug\12.RandomizeNumbers.exe.config
-E:\Documents\Visual Studio 2013\Projects\07.Loops\12.RandomizeNumbers\bin\Debug\12.RandomizeNumbers.exe
-E:\Documents\Visual Studio 2013\Projects\07.Loops\12.RandomizeNumbers\bin\Debug\12.RandomizeNumbers.pdb
-E:\Documents\Visual Studio 2013\Projects\07.Loops\12.RandomizeNumbers\obj\Debug\12.RandomizeNumbers.exe
-E:\Documents\Visual Studio 2013\Projects\07.Loops\12.RandomizeNumbers\obj\Debug\12.RandomizeNumbers.pdb

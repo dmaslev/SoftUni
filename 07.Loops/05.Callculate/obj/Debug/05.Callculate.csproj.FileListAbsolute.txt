@@ -1,6 +1,0 @@
-e:\documents\visual studio 2013\Projects\07.Loops\05.Callculate\bin\Debug\05.Callculate.exe.config
-e:\documents\visual studio 2013\Projects\07.Loops\05.Callculate\bin\Debug\05.Callculate.exe
-e:\documents\visual studio 2013\Projects\07.Loops\05.Callculate\bin\Debug\05.Callculate.pdb
-e:\documents\visual studio 2013\Projects\07.Loops\05.Callculate\obj\Debug\05.Callculate.exe
-e:\documents\visual studio 2013\Projects\07.Loops\05.Callculate\obj\Debug\05.Callculate.pdb
-E:\Documents\Visual Studio 2013\Projects\07.Loops\05.Callculate\obj\Debug\05.Callculate.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample\TEST\bin\Debug\TEST.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample\TEST\bin\Debug\TEST.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\TEST\bin\Debug\TEST.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample\TEST\obj\Debug\TEST.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\TEST\obj\Debug\TEST.pdb

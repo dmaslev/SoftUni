@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample\4.02.Illuminati\bin\Debug\4.02.Illuminati.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample\4.02.Illuminati\bin\Debug\4.02.Illuminati.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\4.02.Illuminati\bin\Debug\4.02.Illuminati.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample\4.02.Illuminati\obj\Debug\4.02.Illuminati.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\ExamSample\4.02.Illuminati\obj\Debug\4.02.Illuminati.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\4.02.Illuminati\obj\Debug\4.02.Illuminati.pdb

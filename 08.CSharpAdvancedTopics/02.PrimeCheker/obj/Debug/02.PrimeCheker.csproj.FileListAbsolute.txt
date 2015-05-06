@@ -1,5 +1,0 @@
-e:\documents\visual studio 2013\Projects\08.CSharpAdvancedTopics\02.PrimeCheker\bin\Debug\02.PrimeCheker.exe.config
-e:\documents\visual studio 2013\Projects\08.CSharpAdvancedTopics\02.PrimeCheker\bin\Debug\02.PrimeCheker.exe
-e:\documents\visual studio 2013\Projects\08.CSharpAdvancedTopics\02.PrimeCheker\bin\Debug\02.PrimeCheker.pdb
-e:\documents\visual studio 2013\Projects\08.CSharpAdvancedTopics\02.PrimeCheker\obj\Debug\02.PrimeCheker.exe
-e:\documents\visual studio 2013\Projects\08.CSharpAdvancedTopics\02.PrimeCheker\obj\Debug\02.PrimeCheker.pdb

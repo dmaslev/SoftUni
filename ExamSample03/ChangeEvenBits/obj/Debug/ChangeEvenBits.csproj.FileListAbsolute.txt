@@ -1,1 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample03\ChangeEvenBits\bin\Debug\ChangeEvenBits.exe.config

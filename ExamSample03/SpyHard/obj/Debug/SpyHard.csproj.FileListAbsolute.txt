@@ -1,5 +1,0 @@
-D:\ExamSample03\SpyHard\bin\Debug\SpyHard.exe.config
-D:\ExamSample03\SpyHard\bin\Debug\SpyHard.exe
-D:\ExamSample03\SpyHard\bin\Debug\SpyHard.pdb
-D:\ExamSample03\SpyHard\obj\Debug\SpyHard.exe
-D:\ExamSample03\SpyHard\obj\Debug\SpyHard.pdb

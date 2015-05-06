@@ -1,6 +1,0 @@
-e:\documents\visual studio 2013\Projects\ExamSample\5.02.Pairs\bin\Debug\5.02.Pairs.exe.config
-e:\documents\visual studio 2013\Projects\ExamSample\5.02.Pairs\bin\Debug\5.02.Pairs.exe
-e:\documents\visual studio 2013\Projects\ExamSample\5.02.Pairs\bin\Debug\5.02.Pairs.pdb
-e:\documents\visual studio 2013\Projects\ExamSample\5.02.Pairs\obj\Debug\5.02.Pairs.csprojResolveAssemblyReference.cache
-e:\documents\visual studio 2013\Projects\ExamSample\5.02.Pairs\obj\Debug\5.02.Pairs.exe
-e:\documents\visual studio 2013\Projects\ExamSample\5.02.Pairs\obj\Debug\5.02.Pairs.pdb

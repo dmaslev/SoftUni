@@ -1,6 +1,0 @@
-D:\ExamSample03\BobTraveller\bin\Debug\BobTraveller.exe.config
-D:\ExamSample03\BobTraveller\obj\Debug\BobTraveller.csprojResolveAssemblyReference.cache
-D:\ExamSample03\BobTraveller\bin\Debug\BobTraveller.exe
-D:\ExamSample03\BobTraveller\bin\Debug\BobTraveller.pdb
-D:\ExamSample03\BobTraveller\obj\Debug\BobTraveller.exe
-D:\ExamSample03\BobTraveller\obj\Debug\BobTraveller.pdb

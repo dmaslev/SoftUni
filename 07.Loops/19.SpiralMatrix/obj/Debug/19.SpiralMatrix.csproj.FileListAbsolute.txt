@@ -1,1 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\07.Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe.config

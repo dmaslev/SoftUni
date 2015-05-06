@@ -1,6 +1,0 @@
-e:\documents\visual studio 2013\Projects\ExamSample\ExamShedule\bin\Debug\ExamShedule.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample\ExamShedule\bin\Debug\ExamShedule.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\ExamShedule\bin\Debug\ExamShedule.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample\ExamShedule\obj\Debug\ExamShedule.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\ExamSample\ExamShedule\obj\Debug\ExamShedule.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\ExamShedule\obj\Debug\ExamShedule.pdb

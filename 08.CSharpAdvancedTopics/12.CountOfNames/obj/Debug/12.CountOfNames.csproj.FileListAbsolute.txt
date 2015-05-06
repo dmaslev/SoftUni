@@ -1,1 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\08.CSharpAdvancedTopics\12.CountOfNames\bin\Debug\12.CountOfNames.exe.config

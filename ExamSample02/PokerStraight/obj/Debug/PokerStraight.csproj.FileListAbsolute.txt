@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample02\PokerStraight\bin\Debug\PokerStraight.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample02\PokerStraight\bin\Debug\PokerStraight.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample02\PokerStraight\bin\Debug\PokerStraight.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample02\PokerStraight\obj\Debug\PokerStraight.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\ExamSample02\PokerStraight\obj\Debug\PokerStraight.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample02\PokerStraight\obj\Debug\PokerStraight.pdb

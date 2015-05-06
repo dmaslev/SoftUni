@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BitShooter\bin\Debug\BitShooter.exe.config
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BitShooter\obj\Debug\BitShooter.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BitShooter\bin\Debug\BitShooter.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BitShooter\bin\Debug\BitShooter.pdb
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BitShooter\obj\Debug\BitShooter.exe
-E:\Documents\Visual Studio 2013\Projects\ExamSample\BitShooter\obj\Debug\BitShooter.pdb

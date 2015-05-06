@@ -1,9 +1,0 @@
-e:\documents\visual studio 2013\Projects\ExamSample03\Electricity\bin\Debug\Electricity.exe.config
-e:\documents\visual studio 2013\Projects\ExamSample03\Electricity\bin\Debug\Electricity.exe
-e:\documents\visual studio 2013\Projects\ExamSample03\Electricity\bin\Debug\Electricity.pdb
-e:\documents\visual studio 2013\Projects\ExamSample03\Electricity\obj\Debug\Electricity.csprojResolveAssemblyReference.cache
-e:\documents\visual studio 2013\Projects\ExamSample03\Electricity\obj\Debug\Electricity.exe
-e:\documents\visual studio 2013\Projects\ExamSample03\Electricity\obj\Debug\Electricity.pdb
-D:\ExamSample03\Electricity\bin\Debug\Electricity.exe.config
-D:\ExamSample03\Electricity\obj\Debug\Electricity.exe
-D:\ExamSample03\Electricity\obj\Debug\Electricity.pdb

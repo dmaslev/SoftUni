@@ -1,1 +1,0 @@
-e:\documents\visual studio 2013\Projects\07.Loops\08.MatrixOfNumbers\bin\Debug\08.MatrixOfNumbers.exe.config

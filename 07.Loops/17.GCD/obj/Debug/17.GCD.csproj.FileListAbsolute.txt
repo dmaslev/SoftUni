@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\07.Loops\17.GCD\bin\Debug\17.GCD.exe.config
-E:\Documents\Visual Studio 2013\Projects\07.Loops\17.GCD\bin\Debug\17.GCD.exe
-E:\Documents\Visual Studio 2013\Projects\07.Loops\17.GCD\bin\Debug\17.GCD.pdb
-E:\Documents\Visual Studio 2013\Projects\07.Loops\17.GCD\obj\Debug\17.GCD.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\07.Loops\17.GCD\obj\Debug\17.GCD.exe
-E:\Documents\Visual Studio 2013\Projects\07.Loops\17.GCD\obj\Debug\17.GCD.pdb
