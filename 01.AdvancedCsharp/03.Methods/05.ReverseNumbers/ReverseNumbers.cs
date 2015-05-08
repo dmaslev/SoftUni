@@ -9,13 +9,18 @@ class ReverseNumbers
 {
     static void Main()
     {
-        int n = int.Parse(Console.ReadLine());
-        Console.WriteLine(GetReversedNumber(n));
+        string number = Console.ReadLine();
+        Console.WriteLine("{0:0.##}", GetReversedNumber(number));
     }
 
-    static int GetReversedNumber(int n)
+    static double GetReversedNumber(string n)
     {
-        throw new NotImplementedException();
+        string result = string.Empty;
+        for (int i = 0; i < n.Length; i++)
+        {
+            result = result + n[n.Length - 1 - i];
+        }
+        return double.Parse( result);
     }
 }
 

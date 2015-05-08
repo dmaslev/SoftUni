@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _06.NumberCalculations
+
+class NumberCalculations
 {
-    class NumberCalculations
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-        }
+        string input = Console.ReadLine();
+        var set = input.Split(new[] {' ', ','}, StringSplitOptions.RemoveEmptyEntries);
     }
 }
+
