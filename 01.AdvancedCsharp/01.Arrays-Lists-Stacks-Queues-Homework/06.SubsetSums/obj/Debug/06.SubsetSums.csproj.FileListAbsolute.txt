@@ -4,6 +4,3 @@ E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\
 E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\06.SubsetSums\obj\Debug\06.SubsetSums.csprojResolveAssemblyReference.cache
 E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\06.SubsetSums\obj\Debug\06.SubsetSums.exe
 E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\06.SubsetSums\obj\Debug\06.SubsetSums.pdb
-E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\01.Arrays-Lists-Stacks-Queues-Homework\06.SubsetSums\bin\Debug\06.SubsetSums.exe.config
-E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\01.Arrays-Lists-Stacks-Queues-Homework\06.SubsetSums\obj\Debug\06.SubsetSums.exe
-E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\01.Arrays-Lists-Stacks-Queues-Homework\06.SubsetSums\obj\Debug\06.SubsetSums.pdb
