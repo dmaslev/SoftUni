@@ -4,12 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _05.ReverseNumbers
+
+class ReverseNumbers
 {
-    class ReverseNumbers
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-        }
+        int n = int.Parse(Console.ReadLine());
+        Console.WriteLine(GetReversedNumber(n));
+    }
+
+    static int GetReversedNumber(int n)
+    {
+        throw new NotImplementedException();
     }
 }
+
