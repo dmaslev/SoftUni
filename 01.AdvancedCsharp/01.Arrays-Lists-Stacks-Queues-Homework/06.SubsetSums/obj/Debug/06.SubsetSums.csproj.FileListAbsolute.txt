@@ -1,1 +1,6 @@
 E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\06.SubsetSums\bin\Debug\06.SubsetSums.exe.config
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\06.SubsetSums\bin\Debug\06.SubsetSums.exe
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\06.SubsetSums\bin\Debug\06.SubsetSums.pdb
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\06.SubsetSums\obj\Debug\06.SubsetSums.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\06.SubsetSums\obj\Debug\06.SubsetSums.exe
+E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\06.SubsetSums\obj\Debug\06.SubsetSums.pdb
