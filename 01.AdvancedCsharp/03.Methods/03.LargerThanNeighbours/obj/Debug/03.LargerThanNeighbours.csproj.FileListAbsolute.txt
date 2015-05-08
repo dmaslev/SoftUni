@@ -4,3 +4,9 @@ e:\documents\visual studio 2013\Projects\03.Methods\03.LargerThanNeighbours\bin\
 e:\documents\visual studio 2013\Projects\03.Methods\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.csprojResolveAssemblyReference.cache
 e:\documents\visual studio 2013\Projects\03.Methods\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.exe
 e:\documents\visual studio 2013\Projects\03.Methods\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.pdb
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe.config
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.exe
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.pdb
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.pdb
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.csprojResolveAssemblyReference.cache

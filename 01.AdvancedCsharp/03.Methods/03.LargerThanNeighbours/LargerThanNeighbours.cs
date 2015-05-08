@@ -10,7 +10,7 @@ class LargerThanNeighbours
     static void Main()
     {
         string input = Console.ReadLine();
-        int[] numbers = input.Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+        int[] numbers = input.Split(new[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
         int n =  int.Parse(Console.ReadLine());
         Console.WriteLine(IsLargerThanNeighbours(numbers, n));
     }

@@ -9,8 +9,8 @@ class FirstLargerThanNeighbours
 {
     static void Main()
     {
-        string input = "1, 3, 4, 5, 1, 0, 5" ;// Console.ReadLine();
-        int[] numbers = input.Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+        string input =  Console.ReadLine();
+        int[] numbers = input.Split(new[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
         Console.WriteLine(ReturnFirstLargerThanNeighbours(numbers));
     }
 
@@ -31,7 +31,7 @@ class FirstLargerThanNeighbours
             if (numbers[n] > nextNumber &&
                 numbers[n] > numbers[n - 1])
             {
-                return numbers[n].ToString();
+                return n.ToString();
             }
         }
         return "-1";
