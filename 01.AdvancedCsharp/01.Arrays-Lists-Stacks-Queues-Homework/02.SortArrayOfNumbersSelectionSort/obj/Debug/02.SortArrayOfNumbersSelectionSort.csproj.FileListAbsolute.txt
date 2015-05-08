@@ -4,3 +4,6 @@ E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\
 E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\02.SortArrayOfNumbersSelectionSort\obj\Debug\02.SortArrayOfNumbersSelectionSort.csprojResolveAssemblyReference.cache
 E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\02.SortArrayOfNumbersSelectionSort\obj\Debug\02.SortArrayOfNumbersSelectionSort.exe
 E:\Documents\Visual Studio 2013\Projects\01.Arrays-Lists-Stacks-Queues-Homework\02.SortArrayOfNumbersSelectionSort\obj\Debug\02.SortArrayOfNumbersSelectionSort.pdb
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\01.Arrays-Lists-Stacks-Queues-Homework\02.SortArrayOfNumbersSelectionSort\bin\Debug\02.SortArrayOfNumbersSelectionSort.exe.config
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\01.Arrays-Lists-Stacks-Queues-Homework\02.SortArrayOfNumbersSelectionSort\obj\Debug\02.SortArrayOfNumbersSelectionSort.exe
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\01.Arrays-Lists-Stacks-Queues-Homework\02.SortArrayOfNumbersSelectionSort\obj\Debug\02.SortArrayOfNumbersSelectionSort.pdb
