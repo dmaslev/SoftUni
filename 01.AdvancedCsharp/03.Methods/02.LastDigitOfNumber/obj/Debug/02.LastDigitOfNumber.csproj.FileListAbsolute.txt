@@ -1,8 +1,0 @@
-e:\documents\visual studio 2013\Projects\03.Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
-e:\documents\visual studio 2013\Projects\03.Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
-e:\documents\visual studio 2013\Projects\03.Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
-e:\documents\visual studio 2013\Projects\03.Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
-e:\documents\visual studio 2013\Projects\03.Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb
-E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
-E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
-E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb
