@@ -17,8 +17,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.NumberCalculations", "06
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.GenericArraySort", "07.GenericArraySort\07.GenericArraySort.csproj", "{3F9EA8B9-45F0-40A4-A9CD-9D4D7546CBE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{96A5F43E-33DD-45F6-8724-58FEC26FED4D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,10 +51,6 @@ Global
 		{3F9EA8B9-45F0-40A4-A9CD-9D4D7546CBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F9EA8B9-45F0-40A4-A9CD-9D4D7546CBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F9EA8B9-45F0-40A4-A9CD-9D4D7546CBE5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{96A5F43E-33DD-45F6-8724-58FEC26FED4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96A5F43E-33DD-45F6-8724-58FEC26FED4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96A5F43E-33DD-45F6-8724-58FEC26FED4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96A5F43E-33DD-45F6-8724-58FEC26FED4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
