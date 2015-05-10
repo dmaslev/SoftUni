@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-08-05-2015\05.BitCarousel\bin\Debug\05.BitCarousel.exe.config
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-08-05-2015\05.BitCarousel\bin\Debug\05.BitCarousel.exe
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-08-05-2015\05.BitCarousel\bin\Debug\05.BitCarousel.pdb
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-08-05-2015\05.BitCarousel\obj\Debug\05.BitCarousel.exe
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-08-05-2015\05.BitCarousel\obj\Debug\05.BitCarousel.pdb
