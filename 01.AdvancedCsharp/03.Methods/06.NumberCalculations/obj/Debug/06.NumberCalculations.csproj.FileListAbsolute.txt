@@ -1,0 +1,12 @@
+e:\documents\visual studio 2013\Projects\03.Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb
+E:\Documents\Visual Studio 2013\Projects\03.Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+E:\Documents\Visual Studio 2013\Projects\03.Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb
+E:\Documents\Visual Studio 2013\Projects\03.Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
+E:\Documents\Visual Studio 2013\Projects\03.Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
+E:\Documents\Visual Studio 2013\Projects\03.Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+e:\documents\visual studio 2013\Projects\03.Methods\01.GetLargestNumber\bin\Debug\01.GetLargestNumber.exe.config
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\01.GetLargestNumber\bin\Debug\01.GetLargestNumber.exe.config
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\01.GetLargestNumber\bin\Debug\01.GetLargestNumber.exe
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\01.GetLargestNumber\bin\Debug\01.GetLargestNumber.pdb
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\01.GetLargestNumber\obj\Debug\01.GetLargestNumber.csprojResolveAssemblyReference.cache
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\01.GetLargestNumber\obj\Debug\01.GetLargestNumber.exe
+E:\DeTeLiN\SoftUni\Git\trunk\01.AdvancedCsharp\03.Methods\01.GetLargestNumber\obj\Debug\01.GetLargestNumber.pdb
+E:\Documents\Visual Studio 2013\Projects\03.Methods\01.GetLargestNumber\obj\Debug\01.GetLargestNumber.exe
+E:\Documents\Visual Studio 2013\Projects\03.Methods\01.GetLargestNumber\obj\Debug\01.GetLargestNumber.pdb
