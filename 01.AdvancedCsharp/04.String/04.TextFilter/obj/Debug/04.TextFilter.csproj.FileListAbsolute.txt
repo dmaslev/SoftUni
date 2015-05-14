@@ -1,0 +1,5 @@
+e:\documents\visual studio 2013\Projects\04.String\04.TextFilter\bin\Debug\04.TextFilter.exe.config
+E:\Documents\Visual Studio 2013\Projects\04.String\04.TextFilter\bin\Debug\04.TextFilter.exe
+E:\Documents\Visual Studio 2013\Projects\04.String\04.TextFilter\bin\Debug\04.TextFilter.pdb
+E:\Documents\Visual Studio 2013\Projects\04.String\04.TextFilter\obj\Debug\04.TextFilter.exe
+E:\Documents\Visual Studio 2013\Projects\04.String\04.TextFilter\obj\Debug\04.TextFilter.pdb

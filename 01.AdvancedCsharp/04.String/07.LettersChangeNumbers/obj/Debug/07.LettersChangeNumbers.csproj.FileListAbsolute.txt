@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\04.String\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.exe.config
+E:\Documents\Visual Studio 2013\Projects\04.String\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.exe
+E:\Documents\Visual Studio 2013\Projects\04.String\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.pdb
+E:\Documents\Visual Studio 2013\Projects\04.String\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\04.String\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.exe
+E:\Documents\Visual Studio 2013\Projects\04.String\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.pdb

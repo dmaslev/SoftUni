@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\04.String\03.CountSubstringOccurrences\bin\Debug\03.CountSubstringOccurrences.exe.config
+E:\Documents\Visual Studio 2013\Projects\04.String\03.CountSubstringOccurrences\obj\Debug\03.CountSubstringOccurrences.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\04.String\03.CountSubstringOccurrences\bin\Debug\03.CountSubstringOccurrences.exe
+E:\Documents\Visual Studio 2013\Projects\04.String\03.CountSubstringOccurrences\bin\Debug\03.CountSubstringOccurrences.pdb
+E:\Documents\Visual Studio 2013\Projects\04.String\03.CountSubstringOccurrences\obj\Debug\03.CountSubstringOccurrences.exe
+E:\Documents\Visual Studio 2013\Projects\04.String\03.CountSubstringOccurrences\obj\Debug\03.CountSubstringOccurrences.pdb

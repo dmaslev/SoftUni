@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\04.String\06.Palindromes\bin\Debug\06.Palindromes.exe.config
+E:\Documents\Visual Studio 2013\Projects\04.String\06.Palindromes\bin\Debug\06.Palindromes.exe
+E:\Documents\Visual Studio 2013\Projects\04.String\06.Palindromes\bin\Debug\06.Palindromes.pdb
+E:\Documents\Visual Studio 2013\Projects\04.String\06.Palindromes\obj\Debug\06.Palindromes.exe
+E:\Documents\Visual Studio 2013\Projects\04.String\06.Palindromes\obj\Debug\06.Palindromes.pdb
+E:\Documents\Visual Studio 2013\Projects\04.String\06.Palindromes\obj\Debug\06.Palindromes.csprojResolveAssemblyReference.cache
