@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\09.Disk\bin\Debug\09.Disk.exe.config
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\09.Disk\bin\Debug\09.Disk.exe
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\09.Disk\bin\Debug\09.Disk.pdb
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\09.Disk\obj\Debug\09.Disk.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\09.Disk\obj\Debug\09.Disk.exe
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\09.Disk\obj\Debug\09.Disk.pdb

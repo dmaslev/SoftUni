@@ -1,0 +1,1 @@
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\08.FullDirectoryTraversal\bin\Debug\08.FullDirectoryTraversal.exe.config

@@ -1,0 +1,5 @@
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\01.OddLines\bin\Debug\01.OddLines.exe.config
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\01.OddLines\bin\Debug\01.OddLines.exe
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\01.OddLines\bin\Debug\01.OddLines.pdb
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\01.OddLines\obj\Debug\01.OddLines.exe
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\01.OddLines\obj\Debug\01.OddLines.pdb

@@ -1,0 +1,5 @@
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\05.SlicingFile\bin\Debug\05.SlicingFile.exe.config
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\05.SlicingFile\bin\Debug\05.SlicingFile.exe
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\05.SlicingFile\bin\Debug\05.SlicingFile.pdb
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\05.SlicingFile\obj\Debug\05.SlicingFile.exe
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\05.SlicingFile\obj\Debug\05.SlicingFile.pdb

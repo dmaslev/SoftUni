@@ -1,0 +1,5 @@
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.exe.config
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.exe
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.pdb
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.exe
+e:\documents\visual studio 2013\Projects\05.StreamsAndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.pdb
