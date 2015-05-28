@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-12-05-2015\02\bin\Debug\02.exe.config
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-12-05-2015\02\obj\Debug\02.exe
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-12-05-2015\02\obj\Debug\02.pdb
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-12-05-2015\02\bin\Debug\02.exe
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-12-05-2015\02\bin\Debug\02.pdb
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-12-05-2015\02\obj\Debug\02.csprojResolveAssemblyReference.cache
