@@ -1,0 +1,6 @@
+C:\Users\Detelin\Desktop\ExamSample03\GandalfsStash\bin\Debug\GandalfsStash.exe.config
+C:\Users\Detelin\Desktop\ExamSample03\GandalfsStash\bin\Debug\GandalfsStash.exe
+C:\Users\Detelin\Desktop\ExamSample03\GandalfsStash\bin\Debug\GandalfsStash.pdb
+C:\Users\Detelin\Desktop\ExamSample03\GandalfsStash\obj\Debug\GandalfsStash.csprojResolveAssemblyReference.cache
+C:\Users\Detelin\Desktop\ExamSample03\GandalfsStash\obj\Debug\GandalfsStash.exe
+C:\Users\Detelin\Desktop\ExamSample03\GandalfsStash\obj\Debug\GandalfsStash.pdb
