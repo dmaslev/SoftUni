@@ -1,6 +1,0 @@
-C:\Users\Detelin\Desktop\ExamSample03\ChatLogger\bin\Debug\ChatLogger.exe.config
-C:\Users\Detelin\Desktop\ExamSample03\ChatLogger\bin\Debug\ChatLogger.exe
-C:\Users\Detelin\Desktop\ExamSample03\ChatLogger\bin\Debug\ChatLogger.pdb
-C:\Users\Detelin\Desktop\ExamSample03\ChatLogger\obj\Debug\ChatLogger.csprojResolveAssemblyReference.cache
-C:\Users\Detelin\Desktop\ExamSample03\ChatLogger\obj\Debug\ChatLogger.exe
-C:\Users\Detelin\Desktop\ExamSample03\ChatLogger\obj\Debug\ChatLogger.pdb

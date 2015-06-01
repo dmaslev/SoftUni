@@ -1,6 +1,0 @@
-C:\Users\Detelin\Desktop\ExamSample03\ITVillage\bin\Debug\ITVillage.exe.config
-C:\Users\Detelin\Desktop\ExamSample03\ITVillage\obj\Debug\ITVillage.csprojResolveAssemblyReference.cache
-C:\Users\Detelin\Desktop\ExamSample03\ITVillage\bin\Debug\ITVillage.exe
-C:\Users\Detelin\Desktop\ExamSample03\ITVillage\bin\Debug\ITVillage.pdb
-C:\Users\Detelin\Desktop\ExamSample03\ITVillage\obj\Debug\ITVillage.exe
-C:\Users\Detelin\Desktop\ExamSample03\ITVillage\obj\Debug\ITVillage.pdb
