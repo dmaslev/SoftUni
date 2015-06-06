@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\01.DefiningClasses\03.PCcatalog\bin\Debug\03.PCcatalog.exe.config
+e:\documents\visual studio 2013\Projects\01.DefiningClasses\03.PCcatalog\bin\Debug\03.PCcatalog.exe
+e:\documents\visual studio 2013\Projects\01.DefiningClasses\03.PCcatalog\bin\Debug\03.PCcatalog.pdb
+e:\documents\visual studio 2013\Projects\01.DefiningClasses\03.PCcatalog\obj\Debug\03.PCcatalog.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\01.DefiningClasses\03.PCcatalog\obj\Debug\03.PCcatalog.exe
+e:\documents\visual studio 2013\Projects\01.DefiningClasses\03.PCcatalog\obj\Debug\03.PCcatalog.pdb
