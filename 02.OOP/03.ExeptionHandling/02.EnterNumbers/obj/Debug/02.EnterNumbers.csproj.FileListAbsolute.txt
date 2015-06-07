@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\03.ExeptionHandling\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config
+e:\documents\visual studio 2013\Projects\03.ExeptionHandling\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
+e:\documents\visual studio 2013\Projects\03.ExeptionHandling\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
+e:\documents\visual studio 2013\Projects\03.ExeptionHandling\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
+e:\documents\visual studio 2013\Projects\03.ExeptionHandling\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb
+e:\documents\visual studio 2013\Projects\03.ExeptionHandling\02.EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache
