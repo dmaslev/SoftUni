@@ -1,0 +1,1 @@
+e:\documents\visual studio 2013\Projects\02.StaticMemberAndNamespaces\04.Namespaces\bin\Debug\04.Namespaces.exe.config
