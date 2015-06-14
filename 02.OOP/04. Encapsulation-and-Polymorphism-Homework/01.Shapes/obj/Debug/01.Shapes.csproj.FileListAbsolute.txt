@@ -1,0 +1,6 @@
+C:\Users\Detelin\Desktop\04. Encapsulation-and-Polymorphism-Homework\01.Shapes\bin\Debug\01.Shapes.exe.config
+C:\Users\Detelin\Desktop\04. Encapsulation-and-Polymorphism-Homework\01.Shapes\obj\Debug\01.Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Detelin\Desktop\04. Encapsulation-and-Polymorphism-Homework\01.Shapes\bin\Debug\01.Shapes.exe
+C:\Users\Detelin\Desktop\04. Encapsulation-and-Polymorphism-Homework\01.Shapes\bin\Debug\01.Shapes.pdb
+C:\Users\Detelin\Desktop\04. Encapsulation-and-Polymorphism-Homework\01.Shapes\obj\Debug\01.Shapes.exe
+C:\Users\Detelin\Desktop\04. Encapsulation-and-Polymorphism-Homework\01.Shapes\obj\Debug\01.Shapes.pdb
