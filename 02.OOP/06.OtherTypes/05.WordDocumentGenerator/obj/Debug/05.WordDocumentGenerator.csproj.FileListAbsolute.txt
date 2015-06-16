@@ -1,0 +1,1 @@
+e:\documents\visual studio 2013\Projects\06.OtherTypes\05.WordDocumentGenerator\bin\Debug\05.WordDocumentGenerator.exe.config

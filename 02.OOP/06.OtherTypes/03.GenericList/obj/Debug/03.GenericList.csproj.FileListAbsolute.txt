@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\06.OtherTypes\03.GenericList\bin\Debug\03.GenericList.exe.config
+E:\Documents\Visual Studio 2013\Projects\06.OtherTypes\03.GenericList\obj\Debug\03.GenericList.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\06.OtherTypes\03.GenericList\bin\Debug\03.GenericList.exe
+E:\Documents\Visual Studio 2013\Projects\06.OtherTypes\03.GenericList\bin\Debug\03.GenericList.pdb
+E:\Documents\Visual Studio 2013\Projects\06.OtherTypes\03.GenericList\obj\Debug\03.GenericList.exe
+E:\Documents\Visual Studio 2013\Projects\06.OtherTypes\03.GenericList\obj\Debug\03.GenericList.pdb
