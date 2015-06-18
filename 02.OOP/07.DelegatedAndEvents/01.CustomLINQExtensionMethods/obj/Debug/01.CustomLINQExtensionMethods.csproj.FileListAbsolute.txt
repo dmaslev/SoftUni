@@ -1,0 +1,1 @@
+e:\documents\visual studio 2013\Projects\07.DelegatedAndEvents\01.CustomLINQExtensionMethods\bin\Debug\01.CustomLINQExtensionMethods.exe.config
