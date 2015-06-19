@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-12-05-2015\04\bin\Debug\04.exe.config
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-12-05-2015\04\bin\Debug\04.exe
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-12-05-2015\04\bin\Debug\04.pdb
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-12-05-2015\04\obj\Debug\04.exe
+E:\Documents\Visual Studio 2013\Projects\CsharpAdvancedLab-12-05-2015\04\obj\Debug\04.pdb
