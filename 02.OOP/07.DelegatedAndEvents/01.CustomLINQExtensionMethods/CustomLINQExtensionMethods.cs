@@ -15,6 +15,17 @@ namespace _01.CustomLINQExtensionMethods
 
             var filteredCollection = numbers.WhereNot(x => x % 2 == 0);
             Console.WriteLine(string.Join(", ", filteredCollection));
+
+            var students = new List<Student>
+            {
+                new Student("Pesho", 3),
+                new Student("Gosho", 2),
+                new Student("Mariika", 7),
+                new Student("Stamat", 5)
+            };
+            Console.WriteLine(students.Maax(student => student.Grade));
+
+
         }
     }
 }

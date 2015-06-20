@@ -1,1 +1,6 @@
 e:\documents\visual studio 2013\Projects\07.DelegatedAndEvents\01.CustomLINQExtensionMethods\bin\Debug\01.CustomLINQExtensionMethods.exe.config
+E:\Documents\Visual Studio 2013\Projects\07.DelegatedAndEvents\01.CustomLINQExtensionMethods\bin\Debug\01.CustomLINQExtensionMethods.exe
+E:\Documents\Visual Studio 2013\Projects\07.DelegatedAndEvents\01.CustomLINQExtensionMethods\bin\Debug\01.CustomLINQExtensionMethods.pdb
+E:\Documents\Visual Studio 2013\Projects\07.DelegatedAndEvents\01.CustomLINQExtensionMethods\obj\Debug\01.CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\07.DelegatedAndEvents\01.CustomLINQExtensionMethods\obj\Debug\01.CustomLINQExtensionMethods.exe
+E:\Documents\Visual Studio 2013\Projects\07.DelegatedAndEvents\01.CustomLINQExtensionMethods\obj\Debug\01.CustomLINQExtensionMethods.pdb
