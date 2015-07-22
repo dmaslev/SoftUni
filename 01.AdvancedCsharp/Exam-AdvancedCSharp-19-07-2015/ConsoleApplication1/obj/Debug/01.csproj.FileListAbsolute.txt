@@ -1,0 +1,6 @@
+C:\Users\Detelin\documents\visual studio 2013\Projects\ExamAdvancedCSharp-19-07-2015\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Detelin\documents\visual studio 2013\Projects\ExamAdvancedCSharp-19-07-2015\ConsoleApplication1\obj\Debug\01.csprojResolveAssemblyReference.cache
+C:\Users\Detelin\documents\visual studio 2013\Projects\ExamAdvancedCSharp-19-07-2015\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Detelin\documents\visual studio 2013\Projects\ExamAdvancedCSharp-19-07-2015\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Detelin\documents\visual studio 2013\Projects\ExamAdvancedCSharp-19-07-2015\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Detelin\documents\visual studio 2013\Projects\ExamAdvancedCSharp-19-07-2015\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

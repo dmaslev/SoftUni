@@ -1,0 +1,5 @@
+C:\Users\Detelin\documents\visual studio 2013\Projects\ExamAdvancedCSharp-19-07-2015\04\bin\Debug\04.exe.config
+C:\Users\Detelin\documents\visual studio 2013\Projects\ExamAdvancedCSharp-19-07-2015\04\obj\Debug\04.exe
+C:\Users\Detelin\documents\visual studio 2013\Projects\ExamAdvancedCSharp-19-07-2015\04\obj\Debug\04.pdb
+C:\Users\Detelin\documents\visual studio 2013\Projects\ExamAdvancedCSharp-19-07-2015\04\bin\Debug\04.exe
+C:\Users\Detelin\documents\visual studio 2013\Projects\ExamAdvancedCSharp-19-07-2015\04\bin\Debug\04.pdb
