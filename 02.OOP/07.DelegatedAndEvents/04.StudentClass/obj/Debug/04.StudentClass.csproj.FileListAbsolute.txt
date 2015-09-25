@@ -1,1 +1,6 @@
 e:\documents\visual studio 2013\Projects\07.DelegatedAndEvents\04.StudentClass\bin\Debug\04.StudentClass.exe.config
+E:\Documents\Visual Studio 2013\Projects\07.DelegatedAndEvents\04.StudentClass\bin\Debug\04.StudentClass.exe
+E:\Documents\Visual Studio 2013\Projects\07.DelegatedAndEvents\04.StudentClass\bin\Debug\04.StudentClass.pdb
+E:\Documents\Visual Studio 2013\Projects\07.DelegatedAndEvents\04.StudentClass\obj\Debug\04.StudentClass.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\07.DelegatedAndEvents\04.StudentClass\obj\Debug\04.StudentClass.exe
+E:\Documents\Visual Studio 2013\Projects\07.DelegatedAndEvents\04.StudentClass\obj\Debug\04.StudentClass.pdb
