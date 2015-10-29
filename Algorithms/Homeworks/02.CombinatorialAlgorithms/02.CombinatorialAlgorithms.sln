@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Permutations", "01.Permutations\01.Permutations.csproj", "{CEA6949D-46FB-40D8-A7A5-FCF34AA694E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PermutationsIteratively", "02.PermutationsIteratively\02.PermutationsIteratively.csproj", "{03128B94-74E7-4815-A26B-BE55E50B4518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GenerateCombinationsIteratively", "03.GenerateCombinationsIteratively\03.GenerateCombinationsIteratively.csproj", "{23FDA4E4-8FBE-457B-86AC-8B51BE0AF116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GenerateSubsetsOfStringArray", "04.GenerateSubsetsOfStringArray\04.GenerateSubsetsOfStringArray.csproj", "{F4F204ED-719F-4AC4-84E1-10FA07C4FF80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PermutationsWithRepetition", "05.PermutationsWithRepetition\05.PermutationsWithRepetition.csproj", "{12D75EA8-EC1C-43AC-BB07-A4A4E2D4E507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEA6949D-46FB-40D8-A7A5-FCF34AA694E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA6949D-46FB-40D8-A7A5-FCF34AA694E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA6949D-46FB-40D8-A7A5-FCF34AA694E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA6949D-46FB-40D8-A7A5-FCF34AA694E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03128B94-74E7-4815-A26B-BE55E50B4518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03128B94-74E7-4815-A26B-BE55E50B4518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03128B94-74E7-4815-A26B-BE55E50B4518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03128B94-74E7-4815-A26B-BE55E50B4518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23FDA4E4-8FBE-457B-86AC-8B51BE0AF116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FDA4E4-8FBE-457B-86AC-8B51BE0AF116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FDA4E4-8FBE-457B-86AC-8B51BE0AF116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FDA4E4-8FBE-457B-86AC-8B51BE0AF116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F204ED-719F-4AC4-84E1-10FA07C4FF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F204ED-719F-4AC4-84E1-10FA07C4FF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F204ED-719F-4AC4-84E1-10FA07C4FF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F204ED-719F-4AC4-84E1-10FA07C4FF80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D75EA8-EC1C-43AC-BB07-A4A4E2D4E507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D75EA8-EC1C-43AC-BB07-A4A4E2D4E507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D75EA8-EC1C-43AC-BB07-A4A4E2D4E507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D75EA8-EC1C-43AC-BB07-A4A4E2D4E507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

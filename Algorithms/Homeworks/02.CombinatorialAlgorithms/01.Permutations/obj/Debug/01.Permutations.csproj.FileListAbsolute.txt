@@ -1,0 +1,12 @@
+c:\users\detelin\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\bin\Debug\01.Permutations.exe.config
+c:\users\detelin\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\obj\Debug\01.Permutations.csprojResolveAssemblyReference.cache
+c:\users\detelin\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\bin\Debug\01.Permutations.exe
+c:\users\detelin\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\bin\Debug\01.Permutations.pdb
+c:\users\detelin\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\obj\Debug\01.Permutations.exe
+c:\users\detelin\documents\visual studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\obj\Debug\01.Permutations.pdb
+E:\Documents\Visual Studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\bin\Debug\01.Permutations.exe.config
+E:\Documents\Visual Studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\obj\Debug\01.Permutations.exe
+E:\Documents\Visual Studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\obj\Debug\01.Permutations.pdb
+E:\Documents\Visual Studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\bin\Debug\01.Permutations.exe
+E:\Documents\Visual Studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\bin\Debug\01.Permutations.pdb
+E:\Documents\Visual Studio 2013\Projects\02.CombinatorialAlgorithms\01.Permutations\obj\Debug\01.Permutations.csprojResolveAssemblyReference.cache
