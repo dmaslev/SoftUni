@@ -1,0 +1,5 @@
+C:\Users\Detelin\Desktop\05. Graph-Algorithms-Lab\Topological-Sorting\bin\Debug\Topological-Sorting-DFS.exe
+C:\Users\Detelin\Desktop\05. Graph-Algorithms-Lab\Topological-Sorting\bin\Debug\Topological-Sorting-DFS.pdb
+C:\Users\Detelin\Desktop\05. Graph-Algorithms-Lab\Topological-Sorting\obj\Debug\3. Topological-Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Detelin\Desktop\05. Graph-Algorithms-Lab\Topological-Sorting\obj\Debug\Topological-Sorting-DFS.exe
+C:\Users\Detelin\Desktop\05. Graph-Algorithms-Lab\Topological-Sorting\obj\Debug\Topological-Sorting-DFS.pdb

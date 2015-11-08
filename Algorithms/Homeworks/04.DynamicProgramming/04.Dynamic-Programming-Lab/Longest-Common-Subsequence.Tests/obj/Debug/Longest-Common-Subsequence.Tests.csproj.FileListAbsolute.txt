@@ -1,0 +1,9 @@
+C:\Users\Detelin\Desktop\4. Dynamic-Programming-Lab\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.Tests.dll
+C:\Users\Detelin\Desktop\4. Dynamic-Programming-Lab\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.Tests.pdb
+C:\Users\Detelin\Desktop\4. Dynamic-Programming-Lab\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.exe
+C:\Users\Detelin\Desktop\4. Dynamic-Programming-Lab\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Detelin\Desktop\4. Dynamic-Programming-Lab\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.pdb
+C:\Users\Detelin\Desktop\4. Dynamic-Programming-Lab\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Detelin\Desktop\4. Dynamic-Programming-Lab\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\obj\Debug\Longest-Common-Subsequence.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Detelin\Desktop\4. Dynamic-Programming-Lab\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\obj\Debug\Longest-Common-Subsequence.Tests.dll
+C:\Users\Detelin\Desktop\4. Dynamic-Programming-Lab\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\obj\Debug\Longest-Common-Subsequence.Tests.pdb

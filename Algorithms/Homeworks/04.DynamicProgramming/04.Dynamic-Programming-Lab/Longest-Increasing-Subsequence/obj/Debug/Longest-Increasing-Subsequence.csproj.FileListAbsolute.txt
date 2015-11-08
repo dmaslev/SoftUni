@@ -1,0 +1,7 @@
+C:\Users\Detelin\Desktop\4. Dynamic-Programming-Lab\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence\bin\Debug\Longest-Increasing-Subsequence.exe
+C:\Users\Detelin\Desktop\4. Dynamic-Programming-Lab\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence\bin\Debug\Longest-Increasing-Subsequence.pdb
+C:\Users\Detelin\Desktop\4. Dynamic-Programming-Lab\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence\obj\Debug\Longest-Increasing-Subsequence.csprojResolveAssemblyReference.cache
+C:\Users\Detelin\Desktop\4. Dynamic-Programming-Lab\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence\obj\Debug\Longest-Increasing-Subsequence.exe
+C:\Users\Detelin\Desktop\4. Dynamic-Programming-Lab\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence\obj\Debug\Longest-Increasing-Subsequence.pdb
+E:\Documents\Visual Studio 2015\Projects\04. Dynamic-Programming-Lab\Longest-Increasing-Subsequence\obj\Debug\Longest-Increasing-Subsequence.exe
+E:\Documents\Visual Studio 2015\Projects\04. Dynamic-Programming-Lab\Longest-Increasing-Subsequence\obj\Debug\Longest-Increasing-Subsequence.pdb
