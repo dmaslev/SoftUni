@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sortable-Collection", "Sort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sortable-Collection.Tests", "Sortable-Collection.Tests\Sortable-Collection.Tests.csproj", "{789E4757-15E3-453D-ACAC-F5D5553521FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Words", "07.Words\07.Words.csproj", "{34BC7B69-563B-4739-A102-84049799B3DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Needles", "08.Needles\08.Needles.csproj", "{543D08E4-68B9-4875-A1B5-3997FE59F1F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{789E4757-15E3-453D-ACAC-F5D5553521FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{789E4757-15E3-453D-ACAC-F5D5553521FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{789E4757-15E3-453D-ACAC-F5D5553521FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34BC7B69-563B-4739-A102-84049799B3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BC7B69-563B-4739-A102-84049799B3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BC7B69-563B-4739-A102-84049799B3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BC7B69-563B-4739-A102-84049799B3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{543D08E4-68B9-4875-A1B5-3997FE59F1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543D08E4-68B9-4875-A1B5-3997FE59F1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543D08E4-68B9-4875-A1B5-3997FE59F1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543D08E4-68B9-4875-A1B5-3997FE59F1F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
