@@ -32,7 +32,6 @@
                     Swap(ref array[startIndex], ref array[i]);
                 }
             }
-
         }
 
         private static void Swap(ref int p1, ref int p2)

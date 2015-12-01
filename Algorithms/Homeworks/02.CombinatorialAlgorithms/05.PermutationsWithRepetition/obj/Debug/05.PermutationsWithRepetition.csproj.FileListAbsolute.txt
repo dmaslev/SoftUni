@@ -1,6 +1,0 @@
-E:\Documents\Visual Studio 2013\Projects\02.CombinatorialAlgorithms\05.PermutationsWithRepetition\bin\Debug\05.PermutationsWithRepetition.exe.config
-E:\Documents\Visual Studio 2013\Projects\02.CombinatorialAlgorithms\05.PermutationsWithRepetition\bin\Debug\05.PermutationsWithRepetition.exe
-E:\Documents\Visual Studio 2013\Projects\02.CombinatorialAlgorithms\05.PermutationsWithRepetition\bin\Debug\05.PermutationsWithRepetition.pdb
-E:\Documents\Visual Studio 2013\Projects\02.CombinatorialAlgorithms\05.PermutationsWithRepetition\obj\Debug\05.PermutationsWithRepetition.csprojResolveAssemblyReference.cache
-E:\Documents\Visual Studio 2013\Projects\02.CombinatorialAlgorithms\05.PermutationsWithRepetition\obj\Debug\05.PermutationsWithRepetition.exe
-E:\Documents\Visual Studio 2013\Projects\02.CombinatorialAlgorithms\05.PermutationsWithRepetition\obj\Debug\05.PermutationsWithRepetition.pdb
