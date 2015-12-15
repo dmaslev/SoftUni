@@ -1,0 +1,42 @@
+button {
+	color: blue;
+	width: 100%;
+	height: 100%;
+	font-size: 20px;
+	cursor: pointer;
+	background: #ffffff; /* Old browsers */
+	background: -moz-linear-gradient(top,  #ffffff 0%, #f1f1f1 50%, #f6f6f6 50%, #f6f6f6 50%, #e1e1e1 51%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  #ffffff 0%,#f1f1f1 50%,#f6f6f6 50%,#f6f6f6 50%,#e1e1e1 51%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  #ffffff 0%,#f1f1f1 50%,#f6f6f6 50%,#f6f6f6 50%,#e1e1e1 51%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e1e1e1',GradientType=0 ); /* IE6-9 */
+}
+
+.inside-btn {
+	width: 100%;
+	height: 100%;
+	font-size: 10px;
+}
+
+td{
+	padding: 5px;
+}
+table, td {
+	border: 1px solid black;
+}
+
+.square {
+	width: 95px;
+	height: 95px;
+}
+td > table{
+	height: 95px;
+	width: 95px;
+}
+
+td > table  td {
+	font-size: 1px;
+}
+
+h2 {
+    text-transform: uppercase;
+}

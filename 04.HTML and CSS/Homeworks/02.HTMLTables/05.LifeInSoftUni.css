@@ -1,0 +1,73 @@
+body {
+	font-size: 20px;
+}
+table, td{
+	border: 1px solid black;
+}
+td {
+	width: 90px;
+	height: 90px;
+}
+
+tr:nth-child(1) td:nth-child(1){
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+tr:nth-child(2) td:nth-child(1){
+	vertical-align: top;
+}
+
+tr:nth-child(2) td:nth-child(2){
+	vertical-align: top;
+	text-align: right;
+}
+
+tr:nth-child(3) td:nth-child(1){
+	vertical-align: top;
+	text-align: center;
+}
+
+tr:nth-child(3) td:nth-child(3){
+	vertical-align: bottom;
+	text-align: center;
+}
+
+tr:nth-child(4) td:nth-child(1){
+	vertical-align: bottom;
+	text-align: right;
+}
+
+tr:nth-child(4) td:nth-child(2){
+	vertical-align: bottom;
+	text-align: left;
+}
+
+tr:nth-child(4) td:nth-child(2){
+	vertical-align: bottom;
+	text-align: left;
+}
+
+td > table tr:nth-child(1) > td:nth-child(1), td > table tr:nth-child(2) > td:nth-child(1){
+	font-size: 15px;
+	text-align: center;;
+	vertical-align: middle;
+	font-weight: normal;
+	height: 50px;
+}
+
+
+tr:nth-child(5) td:nth-child(1){
+	text-align: right;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+@media (max-width: 560px){
+
+}
+
+@media (min-width: 560px) and (max-width: 1200px){
+
+}
