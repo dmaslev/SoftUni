@@ -1,0 +1,154 @@
+body {
+	background-image: url(colorful_dots_on_black.jpg);
+	width: auto;
+    height: auto;
+}
+
+body > header:first-of-type {
+    font-size: 1.8rem;
+    padding-top: 0.2%;
+    padding-bottom: 1.2%;
+    color: yellow;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 2%;
+    background-position: left;
+    background: linear-gradient(to right, red, red 33.3%, green 33.3%, green 67.7%, blue 67.7%);
+}
+
+aside {
+	float: left;
+	background: rgba(230, 230, 230, 0.9);
+	width: 16%;
+	border-radius: 10px;
+	margin-left: 1%;
+	padding: 1%;
+}
+
+nav header {
+    text-decoration: underline;
+    font-weight: bold;
+    margin-bottom: 5%;
+    font-size: 1.5rem;
+}
+
+article {
+	background: rgba(230, 230, 230, 0.9);
+	margin-left: 20%;
+	border-radius: 10px;
+	margin-right: 10px;
+	padding: 1%;
+	margin-bottom: 1%;
+    font-size: 1rem;
+
+}
+
+article > footer {
+	color: black;
+	font-style: italic;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    font-size: 0.9rem;
+}
+
+article div:first-line {
+    font-style: italic;
+}
+
+article div:first-letter {
+    font-size: 2.5rem;
+}
+
+span:lang(la) {
+    color: #00008B;
+    font-style: italic;
+}
+
+span:lang(la):before, span:lang(la):after{
+    content: "\" "
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: #808080;
+}
+
+#webColors, #webSafeColors, #RGB, #RGBA, #\#HSLHSV, #\#lorem {
+    border-radius: 5px;
+    line-height: 150%;
+    font-size: 1.5rem;
+	padding: 0.5%;
+	padding-left: 1%;
+}
+
+#webColors, #webSafeColors, #RGB, #RGBA, #\#HSLHSV {
+}
+
+#webColors {
+    color: white;
+    background: #FF0000;
+}
+
+
+#webSafeColors {
+    color: black;
+    background: #FFA500;
+}
+
+#RGB {
+    color: black;
+    background: #FFFF00;
+}
+
+#RGBA {
+    color: white;
+    background: #008000;
+}
+
+ #\#HSLHSV {
+    color: white;
+    background: #0000FF;
+}
+
+ #\#lorem {
+    color: white;
+    background: #800080;
+ }
+
+ li:nth-of-type(1):hover {
+    background: #FF0000;
+}
+
+li:nth-of-type(2):hover {
+    background: #FFA500;
+}
+
+li:nth-of-type(3):hover {
+    background: #FFFF00;
+}
+
+li:nth-of-type(4):hover {
+    background: #008000;
+}
+
+li:nth-of-type(5):hover {
+    background: #0000FF;
+}
+
+li:nth-of-type(6):hover {
+    background: #800080;
+}
+
+ul a:link {
+    text-decoration: none;
+}
+
+li {
+    margin-right: 8%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 5px;
+}

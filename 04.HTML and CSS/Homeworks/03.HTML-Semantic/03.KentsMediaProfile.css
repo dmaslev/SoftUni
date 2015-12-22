@@ -1,0 +1,19 @@
+body {
+    background: pink;
+}
+h2 {
+	text-align: center;
+}
+
+article {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0px 5px;
+}
+
+audio {
+	display: block;
+	width: 360px;
+	margin-bottom: 4px;
+	margin-top: 4px;
+}

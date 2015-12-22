@@ -1,0 +1,75 @@
+.cirle-main{
+	display:inline-block;
+	width: 530px;
+	height: 530px;
+	background-color:yellow;
+	border-radius: 50%;
+	border:3px solid #000;
+	position: relative;
+}
+
+.eye-wrapper{
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	border:3px solid #000;
+	position: absolute;
+	background-color: #fff;
+}
+.eye-wrapper.first{
+	position: absolute;
+	top: 97px;
+    left: 96px;
+}
+.eye-wrapper.second{
+right: 114px;
+    top: 97px;
+}
+.nose{
+	border-radius: 50%;
+	border:3px solid #000;
+	background-color: red;
+	width: 80px;
+	height: 80px;
+	position: absolute;
+	    top: 40%;
+    left: 40%; 
+}
+.inside-eye{
+	background-color: #000;
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+	position: absolute;
+}
+.inside-eye.first{
+top: 52%;
+    right: 16%;
+}
+.mouth-wrapper{
+    width: 258px;
+    height: 100px;
+    background-color: #Fff;
+    bottom: 103px;
+    position: absolute;
+    left: 123px;
+    border-radius: 100px;
+    border: 3px solid #000;
+}
+.teeth{
+border:3px solid #000;
+border-top: none;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+width: 45px;
+height: 45px;
+position: absolute;
+
+}
+.teeth.one{
+	left: 30%;
+}
+.teeth.two{
+	right: 30%;
+}
