@@ -1,0 +1,96 @@
+body {
+    font-family: tahoma;
+}
+
+#rec {
+	border: 1px solid;
+	width: 600px;
+    height: 200px;
+	border-top: 6px dotted yellow;
+	border-right: 12px solid green;
+	border-bottom: 8px double blue;
+	border-left: 6px dashed red;
+    box-shadow: 15px 15px 5px #666666;
+    position: absolute;
+}
+
+p {
+    font-weight: normal;
+    text-transform: uppercase;
+	font-size: 40px;
+    text-align: center;
+	margin: 10px 0px;
+	text-shadow: 10px 10px 15px #888888;
+}
+
+section {
+	margin: 0 auto;
+	border-radius: 50px;
+    border: 2px solid #FF1A1A;
+    box-shadow: 0 0 0 2px yellow, 0 0 0 4px green, 0 0 0 6px blue;
+	width: 520px;
+    height: 100px;
+}
+
+section > header {
+	font-size: 20px;
+	text-align: center;
+	text-shadow: 10px 10px 25px #888888;
+	padding: 10px 0px;
+}
+
+.button {
+	display: inline-block;
+    width: 190px;
+    background-color: #D8921A;
+    text-align: center;
+	padding: 1px 0px;
+	margin: 12px 1px;
+	border-bottom: 3px solid #A56401;
+    border-right: 3px solid #A56401;
+    border-top: 3px solid #FCA401;
+    border-left: 3px solid #FCA401;
+    position: relative;
+    left: 60px;
+}
+
+#first {
+	position: absolute;
+	border-radius: 50%;
+	width: 15px;
+	height: 15px;
+	background: rgba(122, 122, 122, 0.6);
+	left: 485px;
+	top: 134px;
+	border: 2px dashed white;
+    box-shadow: 0 0 0 6px rgba(128, 128, 128, 0.6);
+}
+
+#second {
+	position: absolute;
+	border-radius: 50%;
+	width: 25px;
+	height: 25px;
+	background: rgba(122, 122, 122, 0.6);
+	left: 522px;
+	top: 94px;
+	border: 2px dashed white;
+    box-shadow: 0 0 0 6px rgba(128, 128, 128, 0.6);
+}
+
+#third {
+	position: absolute;
+	border-radius: 100px;
+	width: 102px;
+	height: 45px;
+	background: rgba(122, 122, 122, 0.6);
+	left: 582px;
+	top: 38px;
+	border: 2px dashed white;
+    box-shadow: 0 0 0 6px rgba(128, 128, 128, 0.6);
+    text-align: center;
+	padding: 5px;	
+    color: white;
+    font-weight: bold;
+    font-size: 1.1em;
+}

@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Animated;
+    src: url(Animated.ttf);
+}
+
+#inner-div {
+    width: 900px;
+    height: 600px;
+    background-image: url("TediHula.png"),
+                      url('PetiaHula.png'),
+                      url('VladoGHula.png'),
+                      url("AlexHula.png"),
+                      url("NakovHula.png"),
+                      url("VladoKHula.png"),
+                      url('HawaiiBackground.png');
+    background-position: 265px 365px, 185px 195px, 45px 225px, 495px 205px, 415px 160px, 675px 235px, 0 0;
+    background-repeat: no-repeat;
+}
+
+#container {
+    width: 900px;
+    height: 600px;
+    margin: 0 auto;
+    background: -webkit-radial-gradient(20% 20%, farthest-corner, #ffffff 2%, #f9f7b5 8%, #ffffff 15%, #0062db 50%); /* Safari 5.1 to 6.0 */
+    background: -o-radial-gradient(20% 20%, farthest-corner, #ffffff 2%, #f9f7b5 8%, #ffffff 15%, #0062db 50%); /* For Opera 11.6 to 12.0 */
+    background: -moz-radial-gradient(20% 20%, farthest-corner, #ffffff 2%, #f9f7b5 8%, #ffffff 15%, #0062db 50%); /* For Firefox 3.6 to 15 */
+    background: radial-gradient(farthest-corner at 20% 20%, #ffffff 2%, #f9f7b5 8%, #ffffff 15%, #0062db 50%); /* Standard syntax (must be last) */
+}
+
+p {
+    font-family: Animated;
+	color: #FEBD1E;
+    font-size: 3em;
+    text-align: right;
+    margin: 10px 0px;
+}
