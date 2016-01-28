@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Flight Order</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div id="wrapper">
+		<header>
+			<h1>Flight order</h1>
+		</header>
+		<main>
+			<div>
+				<label for="From">From</label>
+				<select class="wide" id="From">
+	                <option>Enter a city</option>
+	                <option value="Busmanci">Busmanci</option>
+	                <option value="Chekanchevo">Chekanchevo</option>
+	                <option value="Makocevo">Makocevo</option>
+	            </select>
+			</div>
+			<div>
+				<label for="To">To</label>
+		        <select class="wide" id="To">
+		            <option>Enter a city</option>
+		            <option value="Chepinci">Chepinci</option>
+		            <option value="Kokorkovo">Kokorkovo</option>
+		            <option value="Gorno nanadolnishte">Gorno nanadolnishte</option>
+		        </select>
+			</div>
+			<div class="Prefered">
+	            <input id="Directions" type="checkbox" name="directs" value=" " />
+	            <label for="Directions">Prefer directs</label>
+	        </div>
+			<div>
+				<label for="Departure">Departure Date</label>
+				<input type="date" name="Departure">
+			</div>
+			<div>
+				<label for="Time Interval">Time Interval</label>
+				<input id="TimeIntervalDep" type="time" name="Departure" value=" " />
+                <input type="time" name="Departure" value=" " />
+			</div>
+			<div>
+				<label for="Return">Return Date</label>
+				<input type="date" name="Departure">
+			</div>
+			<div>
+				<label for="Time Interval">Time Interval</label>
+				<input id="TimeIntervalDep" type="time" name="Departure" value=" " />
+                <input type="time" name="Departure" value=" " />
+			</div>
+			<div>
+				<div class="small">
+					<label for="First">12+</label>
+					<input type="number" name="number" value="0" />
+				</div>
+				<div class="small">
+					<label for="Second">2-12</label>
+					<input type="number" name="number" value="0" />
+				</div>
+				<div class="small">
+					<label for="Third">0-2</label>
+					<input type="number" name="number" value="0" />
+				</div>
+			</div>
+			<div>
+				<label for="Class">Choose Class</label>
+				 <select>
+                    <option value="Economy">Economy</option>
+                    <option value="Business">Business</option>
+                </select>
+			</div>
+			<div class="Sub">
+                <input type="submit" name="Search" value="Search" />
+            </div>
+		</main>
+	</div>
+</body>
+</html>

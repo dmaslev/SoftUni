@@ -1,0 +1,23 @@
+header > img {
+	width: 400px;
+}
+
+img {
+	width: 30px;
+	vertical-align: middle;
+}
+
+input[type="search"] {
+	height: 30px;
+}
+
+.Search > label {
+	vertical-align: bottom;
+	display: inline-block;
+	margin-bottom: 4px;
+}
+
+.Search {
+	margin-top: 15px;
+}
+
